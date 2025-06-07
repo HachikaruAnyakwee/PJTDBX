@@ -1,0 +1,501 @@
+CommunityID,HouseholdID,PersonID,Province,UrbanRural,HouseholdSize,HousingCondition,AccessToInternet,EducationLevel,EmploymentStatus,IndigenousStatus,AgeGroup,Gender
+C001,H001,P0001,QC,Urban,5,Adequate,True,College,Student,True,18-34,Other
+C002,H002,P0002,NS,Urban,1,Adequate,True,University,Retired,True,35-54,Other
+C003,H003,P0003,QC,Rural,6,Needs Major Repairs,False,None,Retired,True,35-54,Female
+C004,H004,P0004,PE,Urban,1,Adequate,True,None,Retired,True,18-34,Female
+C005,H005,P0005,NB,Remote,6,Adequate,True,None,Student,True,18-34,Male
+C006,H006,P0006,NB,Suburban,1,Adequate,True,College,Employed,True,35-54,Female
+C007,H007,P0007,ON,Rural,3,Adequate,True,High School,Retired,True,18-34,Male
+C008,H008,P0008,NB,Remote,5,Adequate,False,High School,Unemployed,True,0-17,Male
+C009,H009,P0009,QC,Rural,2,Adequate,True,None,Retired,True,55+,Other
+C010,H010,P0010,SK,Urban,2,Needs Major Repairs,True,University,Unemployed,True,35-54,Other
+C011,H011,P0011,ON,Urban,5,Adequate,True,None,Student,True,35-54,Other
+C012,H012,P0012,MB,Remote,5,Adequate,True,None,Unemployed,True,35-54,Other
+C013,H013,P0013,NS,Remote,5,Adequate,True,University,Retired,True,18-34,Female
+C014,H014,P0014,PE,Suburban,5,Adequate,True,None,Retired,True,35-54,Other
+C015,H015,P0015,ON,Remote,6,Adequate,True,College,Employed,True,18-34,Female
+C016,H016,P0016,QC,Remote,3,Adequate,False,None,Student,True,0-17,Other
+C017,H017,P0017,NS,Rural,2,Adequate,False,College,Unemployed,True,18-34,Female
+C018,H018,P0018,SK,Urban,4,Adequate,True,None,Student,True,18-34,Male
+C019,H019,P0019,BC,Remote,2,Needs Major Repairs,True,High School,Retired,True,35-54,Female
+C020,H020,P0020,PE,Suburban,2,Adequate,True,University,Employed,True,0-17,Female
+C021,H021,P0021,QC,Remote,1,Needs Major Repairs,True,High School,Retired,True,0-17,Other
+C022,H022,P0022,PE,Urban,5,Needs Major Repairs,True,None,Retired,True,18-34,Female
+C023,H023,P0023,AB,Remote,5,Adequate,True,None,Retired,True,18-34,Male
+C024,H024,P0024,BC,Rural,5,Adequate,True,College,Unemployed,True,35-54,Male
+C025,H025,P0025,NS,Urban,1,Adequate,True,None,Retired,True,18-34,Other
+C026,H026,P0026,NB,Remote,3,Needs Major Repairs,True,None,Student,True,35-54,Male
+C027,H027,P0027,QC,Rural,3,Adequate,True,None,Student,True,18-34,Female
+C028,H028,P0028,PE,Urban,4,Adequate,True,High School,Employed,True,35-54,Male
+C029,H029,P0029,NS,Remote,3,Needs Major Repairs,True,College,Student,True,35-54,Other
+C030,H030,P0030,NB,Rural,3,Adequate,False,High School,Retired,True,18-34,Female
+C031,H031,P0031,SK,Suburban,5,Adequate,True,College,Retired,True,35-54,Other
+C032,H032,P0032,SK,Rural,6,Adequate,True,High School,Student,True,18-34,Female
+C033,H033,P0033,PE,Suburban,2,Adequate,True,None,Employed,True,18-34,Male
+C034,H034,P0034,ON,Remote,3,Adequate,True,High School,Employed,True,55+,Other
+C035,H035,P0035,AB,Rural,3,Adequate,True,High School,Student,True,0-17,Other
+C036,H036,P0036,ON,Suburban,1,Adequate,True,College,Unemployed,True,0-17,Female
+C037,H037,P0037,AB,Urban,4,Needs Major Repairs,True,College,Unemployed,True,35-54,Other
+C038,H038,P0038,QC,Rural,6,Adequate,True,High School,Unemployed,True,0-17,Female
+C039,H039,P0039,MB,Remote,1,Needs Major Repairs,True,College,Unemployed,True,35-54,Female
+C040,H040,P0040,PE,Urban,5,Needs Major Repairs,True,College,Student,True,18-34,Female
+C041,H041,P0041,NL,Suburban,2,Adequate,True,College,Employed,True,55+,Female
+C042,H042,P0042,PE,Rural,4,Adequate,True,University,Retired,True,35-54,Male
+C043,H043,P0043,BC,Rural,1,Adequate,True,College,Retired,True,35-54,Female
+C044,H044,P0044,NB,Remote,3,Adequate,True,University,Student,True,55+,Other
+C045,H045,P0045,BC,Urban,3,Adequate,True,University,Retired,True,18-34,Male
+C046,H046,P0046,SK,Rural,4,Adequate,True,College,Unemployed,True,55+,Other
+C047,H047,P0047,AB,Rural,3,Adequate,True,High School,Employed,True,0-17,Male
+C048,H048,P0048,NB,Urban,1,Needs Major Repairs,True,College,Student,True,18-34,Female
+C049,H049,P0049,SK,Rural,1,Adequate,True,None,Employed,True,18-34,Male
+C050,H050,P0050,NB,Urban,3,Adequate,False,High School,Student,True,18-34,Male
+C051,H051,P0051,ON,Urban,3,Adequate,True,University,Student,True,0-17,Other
+C052,H052,P0052,SK,Urban,5,Needs Major Repairs,True,University,Student,True,35-54,Other
+C053,H053,P0053,ON,Remote,2,Adequate,True,High School,Student,True,35-54,Female
+C054,H054,P0054,ON,Urban,4,Needs Major Repairs,True,High School,Employed,True,55+,Male
+C055,H055,P0055,NB,Urban,1,Adequate,True,College,Retired,True,0-17,Male
+C056,H056,P0056,NS,Suburban,4,Adequate,True,University,Student,True,35-54,Male
+C057,H057,P0057,BC,Suburban,5,Adequate,True,None,Unemployed,True,18-34,Female
+C058,H058,P0058,SK,Remote,1,Adequate,True,College,Student,True,18-34,Female
+C059,H059,P0059,NL,Urban,5,Adequate,True,High School,Employed,True,18-34,Female
+C060,H060,P0060,NS,Suburban,5,Adequate,True,University,Student,True,18-34,Female
+C061,H061,P0061,BC,Suburban,6,Adequate,True,High School,Unemployed,True,35-54,Female
+C062,H062,P0062,SK,Rural,3,Needs Major Repairs,True,High School,Employed,True,35-54,Other
+C063,H063,P0063,AB,Urban,6,Adequate,True,High School,Student,True,18-34,Male
+C064,H064,P0064,BC,Suburban,4,Needs Major Repairs,True,College,Unemployed,True,0-17,Male
+C065,H065,P0065,NL,Remote,4,Adequate,True,None,Employed,True,0-17,Male
+C066,H066,P0066,PE,Rural,3,Adequate,False,None,Student,True,0-17,Male
+C067,H067,P0067,QC,Rural,6,Adequate,True,University,Unemployed,True,55+,Male
+C068,H068,P0068,ON,Urban,4,Adequate,True,High School,Employed,True,0-17,Male
+C069,H069,P0069,QC,Urban,6,Adequate,True,None,Student,True,0-17,Male
+C070,H070,P0070,NS,Rural,3,Adequate,True,High School,Employed,True,18-34,Male
+C071,H071,P0071,PE,Remote,1,Adequate,True,University,Unemployed,True,35-54,Other
+C072,H072,P0072,ON,Urban,5,Adequate,True,High School,Student,True,55+,Male
+C073,H073,P0073,SK,Urban,5,Adequate,True,None,Student,True,35-54,Other
+C074,H074,P0074,NS,Rural,6,Needs Major Repairs,True,High School,Student,True,35-54,Female
+C075,H075,P0075,NL,Rural,4,Adequate,True,None,Unemployed,True,18-34,Male
+C076,H076,P0076,NB,Urban,6,Adequate,True,University,Retired,True,0-17,Female
+C077,H077,P0077,SK,Suburban,6,Adequate,True,High School,Student,True,55+,Female
+C078,H078,P0078,BC,Urban,2,Adequate,True,None,Unemployed,True,35-54,Female
+C079,H079,P0079,NB,Suburban,5,Adequate,True,University,Employed,True,35-54,Other
+C080,H080,P0080,NS,Rural,3,Adequate,True,High School,Employed,True,35-54,Female
+C081,H081,P0081,BC,Suburban,6,Adequate,True,University,Unemployed,True,35-54,Female
+C082,H082,P0082,NL,Remote,2,Adequate,True,None,Retired,True,35-54,Female
+C083,H083,P0083,QC,Rural,2,Adequate,True,High School,Unemployed,True,55+,Male
+C084,H084,P0084,BC,Urban,5,Adequate,True,High School,Employed,True,55+,Male
+C085,H085,P0085,QC,Urban,5,Adequate,True,High School,Employed,True,35-54,Other
+C086,H086,P0086,ON,Rural,5,Needs Major Repairs,True,University,Student,True,35-54,Other
+C087,H087,P0087,AB,Rural,3,Adequate,True,University,Retired,True,0-17,Male
+C088,H088,P0088,MB,Remote,2,Adequate,True,None,Unemployed,True,35-54,Other
+C089,H089,P0089,SK,Rural,4,Needs Major Repairs,True,College,Employed,True,0-17,Male
+C090,H090,P0090,MB,Urban,3,Needs Major Repairs,True,High School,Employed,True,35-54,Female
+C091,H091,P0091,ON,Remote,1,Adequate,True,High School,Employed,True,55+,Female
+C092,H092,P0092,BC,Urban,6,Adequate,True,None,Unemployed,True,35-54,Other
+C093,H093,P0093,ON,Suburban,5,Needs Major Repairs,False,High School,Unemployed,True,18-34,Male
+C094,H094,P0094,MB,Rural,2,Adequate,True,University,Retired,True,18-34,Male
+C095,H095,P0095,MB,Suburban,6,Needs Major Repairs,True,University,Student,True,0-17,Other
+C096,H096,P0096,SK,Urban,3,Adequate,True,High School,Student,True,35-54,Male
+C097,H097,P0097,NB,Suburban,1,Adequate,True,High School,Student,True,0-17,Female
+C098,H098,P0098,PE,Suburban,3,Adequate,True,University,Employed,True,0-17,Other
+C099,H099,P0099,ON,Urban,3,Adequate,True,High School,Student,True,18-34,Other
+C100,H100,P0100,AB,Urban,4,Needs Major Repairs,True,University,Employed,True,35-54,Male
+C001,H101,P0101,PE,Rural,6,Needs Major Repairs,True,College,Retired,True,35-54,Other
+C002,H102,P0102,ON,Suburban,4,Adequate,True,College,Employed,True,0-17,Male
+C003,H103,P0103,NL,Remote,3,Adequate,True,High School,Retired,True,18-34,Male
+C004,H104,P0104,NS,Remote,1,Needs Major Repairs,True,High School,Retired,True,18-34,Male
+C005,H105,P0105,NS,Urban,2,Adequate,True,High School,Student,True,35-54,Male
+C006,H106,P0106,MB,Urban,2,Adequate,True,University,Student,True,35-54,Male
+C007,H107,P0107,NS,Suburban,6,Adequate,True,College,Employed,True,18-34,Other
+C008,H108,P0108,QC,Urban,5,Adequate,True,College,Unemployed,True,35-54,Female
+C009,H109,P0109,AB,Remote,5,Adequate,True,None,Student,True,18-34,Female
+C010,H110,P0110,NS,Rural,2,Adequate,True,None,Student,True,55+,Other
+C011,H111,P0111,BC,Rural,3,Adequate,False,High School,Unemployed,True,18-34,Other
+C012,H112,P0112,QC,Suburban,3,Needs Major Repairs,False,University,Unemployed,True,18-34,Female
+C013,H113,P0113,PE,Rural,4,Adequate,True,High School,Student,True,18-34,Female
+C014,H114,P0114,QC,Urban,6,Adequate,True,College,Unemployed,True,35-54,Female
+C015,H115,P0115,ON,Urban,4,Adequate,False,High School,Employed,True,35-54,Female
+C016,H116,P0116,MB,Urban,5,Adequate,False,High School,Retired,True,18-34,Female
+C017,H117,P0117,SK,Urban,2,Adequate,True,College,Retired,True,35-54,Male
+C018,H118,P0118,SK,Suburban,3,Adequate,True,College,Student,True,35-54,Other
+C019,H119,P0119,NL,Rural,2,Adequate,True,College,Student,True,18-34,Male
+C020,H120,P0120,AB,Remote,1,Adequate,False,College,Employed,True,18-34,Female
+C021,H121,P0121,ON,Rural,2,Adequate,True,None,Unemployed,True,55+,Female
+C022,H122,P0122,SK,Urban,1,Adequate,True,University,Student,True,18-34,Female
+C023,H123,P0123,MB,Remote,4,Adequate,True,University,Retired,True,18-34,Male
+C024,H124,P0124,PE,Suburban,4,Adequate,True,College,Employed,True,55+,Male
+C025,H125,P0125,SK,Urban,5,Adequate,True,University,Employed,True,0-17,Female
+C026,H126,P0126,BC,Urban,2,Adequate,True,University,Unemployed,True,0-17,Male
+C027,H127,P0127,QC,Remote,2,Needs Major Repairs,True,University,Student,True,18-34,Male
+C028,H128,P0128,SK,Suburban,1,Needs Major Repairs,True,University,Student,True,55+,Female
+C029,H129,P0129,ON,Remote,4,Adequate,True,College,Employed,True,0-17,Male
+C030,H130,P0130,NS,Suburban,1,Adequate,True,High School,Retired,True,0-17,Other
+C031,H131,P0131,NS,Urban,4,Adequate,True,High School,Student,True,0-17,Other
+C032,H132,P0132,PE,Rural,1,Needs Major Repairs,True,High School,Retired,True,0-17,Other
+C033,H133,P0133,NS,Urban,4,Adequate,True,None,Employed,True,0-17,Other
+C034,H134,P0134,PE,Rural,1,Adequate,True,University,Student,True,18-34,Female
+C035,H135,P0135,ON,Rural,4,Adequate,True,College,Retired,True,35-54,Female
+C036,H136,P0136,AB,Suburban,6,Adequate,True,College,Employed,True,18-34,Female
+C037,H137,P0137,NS,Remote,1,Needs Major Repairs,True,None,Retired,True,18-34,Other
+C038,H138,P0138,NL,Suburban,2,Adequate,True,College,Student,True,0-17,Other
+C039,H139,P0139,MB,Urban,5,Adequate,True,High School,Unemployed,True,18-34,Male
+C040,H140,P0140,QC,Remote,6,Adequate,True,None,Retired,True,18-34,Male
+C041,H141,P0141,NS,Rural,6,Adequate,True,College,Unemployed,True,35-54,Other
+C042,H142,P0142,PE,Rural,1,Adequate,True,None,Student,True,0-17,Other
+C043,H143,P0143,ON,Urban,5,Adequate,True,None,Unemployed,True,18-34,Other
+C044,H144,P0144,NS,Remote,2,Needs Major Repairs,True,College,Employed,True,18-34,Other
+C045,H145,P0145,SK,Urban,6,Adequate,True,High School,Unemployed,True,55+,Male
+C046,H146,P0146,NS,Urban,2,Adequate,True,College,Retired,True,35-54,Other
+C047,H147,P0147,PE,Suburban,4,Needs Major Repairs,True,University,Retired,True,35-54,Male
+C048,H148,P0148,BC,Urban,5,Adequate,True,University,Unemployed,True,18-34,Other
+C049,H149,P0149,BC,Remote,3,Adequate,True,College,Employed,True,55+,Other
+C050,H150,P0150,NS,Urban,4,Adequate,True,High School,Student,True,0-17,Other
+C051,H151,P0151,QC,Remote,5,Needs Major Repairs,True,University,Unemployed,True,0-17,Male
+C052,H152,P0152,ON,Rural,1,Adequate,True,University,Retired,True,18-34,Male
+C053,H153,P0153,NL,Urban,1,Needs Major Repairs,True,College,Retired,True,0-17,Female
+C054,H154,P0154,NL,Remote,2,Adequate,True,College,Unemployed,True,55+,Other
+C055,H155,P0155,NS,Rural,6,Adequate,True,College,Unemployed,True,35-54,Female
+C056,H156,P0156,NS,Remote,3,Adequate,True,None,Unemployed,True,18-34,Female
+C057,H157,P0157,BC,Rural,1,Adequate,True,None,Student,True,35-54,Male
+C058,H158,P0158,PE,Suburban,5,Adequate,True,None,Retired,True,55+,Male
+C059,H159,P0159,QC,Urban,6,Adequate,True,College,Retired,True,55+,Female
+C060,H160,P0160,NS,Urban,6,Needs Major Repairs,True,High School,Retired,True,35-54,Other
+C061,H161,P0161,NL,Rural,5,Adequate,True,University,Student,True,55+,Male
+C062,H162,P0162,ON,Suburban,6,Adequate,True,None,Employed,True,55+,Other
+C063,H163,P0163,AB,Remote,1,Adequate,True,High School,Retired,True,35-54,Other
+C064,H164,P0164,SK,Suburban,5,Adequate,True,College,Retired,True,0-17,Female
+C065,H165,P0165,NS,Remote,5,Adequate,True,None,Employed,True,18-34,Female
+C066,H166,P0166,PE,Remote,2,Adequate,True,College,Student,True,35-54,Female
+C067,H167,P0167,NS,Urban,3,Adequate,True,High School,Employed,True,18-34,Female
+C068,H168,P0168,PE,Rural,2,Adequate,True,None,Employed,True,35-54,Male
+C069,H169,P0169,QC,Urban,3,Adequate,True,None,Employed,True,0-17,Male
+C070,H170,P0170,AB,Urban,5,Needs Major Repairs,False,None,Employed,True,0-17,Female
+C071,H171,P0171,MB,Urban,6,Needs Major Repairs,True,None,Student,True,18-34,Male
+C072,H172,P0172,ON,Remote,3,Adequate,True,High School,Student,True,0-17,Female
+C073,H173,P0173,ON,Urban,5,Adequate,True,None,Employed,True,55+,Other
+C074,H174,P0174,PE,Remote,5,Adequate,True,University,Unemployed,True,35-54,Other
+C075,H175,P0175,BC,Rural,2,Adequate,True,University,Unemployed,True,35-54,Other
+C076,H176,P0176,PE,Remote,2,Adequate,True,College,Unemployed,True,35-54,Female
+C077,H177,P0177,BC,Remote,6,Adequate,True,None,Unemployed,True,18-34,Other
+C078,H178,P0178,NB,Suburban,4,Adequate,True,University,Retired,True,18-34,Male
+C079,H179,P0179,NL,Urban,1,Adequate,True,University,Student,True,35-54,Other
+C080,H180,P0180,ON,Urban,4,Adequate,True,University,Student,True,18-34,Other
+C081,H181,P0181,QC,Urban,4,Adequate,True,High School,Employed,True,18-34,Other
+C082,H182,P0182,PE,Urban,6,Adequate,True,None,Retired,True,18-34,Male
+C083,H183,P0183,QC,Suburban,3,Needs Major Repairs,True,High School,Employed,True,18-34,Female
+C084,H184,P0184,AB,Suburban,6,Adequate,True,High School,Employed,True,55+,Male
+C085,H185,P0185,QC,Suburban,6,Adequate,True,University,Student,True,55+,Female
+C086,H186,P0186,NS,Suburban,5,Adequate,True,University,Retired,True,18-34,Female
+C087,H187,P0187,NL,Urban,5,Needs Major Repairs,True,College,Unemployed,True,35-54,Other
+C088,H188,P0188,NS,Remote,5,Adequate,True,None,Student,True,35-54,Female
+C089,H189,P0189,SK,Rural,1,Adequate,True,None,Retired,True,0-17,Male
+C090,H190,P0190,PE,Suburban,3,Needs Major Repairs,True,University,Retired,True,55+,Male
+C091,H191,P0191,ON,Remote,3,Adequate,True,University,Student,True,55+,Female
+C092,H192,P0192,PE,Suburban,5,Adequate,True,None,Student,True,18-34,Other
+C093,H193,P0193,NL,Urban,4,Adequate,True,College,Employed,True,18-34,Other
+C094,H194,P0194,MB,Urban,1,Adequate,True,University,Employed,True,18-34,Male
+C095,H195,P0195,MB,Remote,4,Adequate,True,College,Employed,True,18-34,Other
+C096,H196,P0196,SK,Remote,2,Adequate,False,High School,Unemployed,True,0-17,Female
+C097,H197,P0197,NL,Remote,3,Adequate,True,University,Student,True,55+,Female
+C098,H198,P0198,NB,Urban,3,Adequate,True,High School,Retired,True,0-17,Male
+C099,H199,P0199,NB,Urban,4,Adequate,True,University,Student,True,18-34,Female
+C100,H200,P0200,NB,Rural,1,Adequate,False,High School,Retired,True,55+,Male
+C001,H001,P0201,ON,Remote,3,Adequate,True,University,Unemployed,True,35-54,Female
+C002,H002,P0202,ON,Rural,4,Needs Major Repairs,True,College,Student,True,18-34,Male
+C003,H003,P0203,NB,Suburban,6,Adequate,True,College,Retired,True,18-34,Other
+C004,H004,P0204,MB,Rural,6,Adequate,True,College,Retired,True,0-17,Female
+C005,H005,P0205,NL,Suburban,1,Adequate,True,High School,Employed,True,35-54,Female
+C006,H006,P0206,QC,Suburban,4,Adequate,True,College,Unemployed,True,0-17,Male
+C007,H007,P0207,NL,Rural,6,Adequate,True,High School,Student,True,18-34,Male
+C008,H008,P0208,NB,Remote,1,Adequate,True,University,Employed,True,55+,Female
+C009,H009,P0209,NL,Suburban,5,Adequate,True,High School,Unemployed,True,0-17,Male
+C010,H010,P0210,AB,Remote,1,Adequate,True,University,Employed,True,55+,Female
+C011,H011,P0211,ON,Urban,2,Adequate,True,None,Student,True,55+,Other
+C012,H012,P0212,ON,Suburban,5,Adequate,True,None,Retired,True,0-17,Male
+C013,H013,P0213,MB,Urban,4,Adequate,True,None,Student,True,55+,Female
+C014,H014,P0214,QC,Rural,5,Adequate,True,High School,Unemployed,True,18-34,Other
+C015,H015,P0215,NB,Remote,5,Adequate,True,None,Student,True,55+,Other
+C016,H016,P0216,PE,Rural,4,Adequate,True,None,Unemployed,True,35-54,Female
+C017,H017,P0217,MB,Suburban,4,Adequate,True,None,Employed,True,35-54,Male
+C018,H018,P0218,MB,Urban,6,Adequate,True,University,Unemployed,True,18-34,Female
+C019,H019,P0219,QC,Suburban,2,Adequate,True,College,Retired,True,55+,Other
+C020,H020,P0220,NS,Rural,4,Needs Major Repairs,True,High School,Retired,True,35-54,Female
+C021,H021,P0221,NB,Remote,3,Adequate,True,None,Retired,True,18-34,Male
+C022,H022,P0222,PE,Remote,3,Adequate,True,University,Employed,True,55+,Other
+C023,H023,P0223,ON,Suburban,2,Needs Major Repairs,True,College,Unemployed,True,18-34,Female
+C024,H024,P0224,QC,Suburban,1,Adequate,True,College,Employed,True,0-17,Male
+C025,H025,P0225,PE,Urban,1,Adequate,True,College,Student,True,0-17,Other
+C026,H026,P0226,AB,Rural,3,Adequate,True,University,Student,True,18-34,Male
+C027,H027,P0227,MB,Suburban,4,Adequate,True,None,Student,True,18-34,Other
+C028,H028,P0228,QC,Urban,2,Adequate,True,College,Student,True,55+,Female
+C029,H029,P0229,ON,Suburban,1,Adequate,True,University,Retired,True,0-17,Male
+C030,H030,P0230,NL,Remote,1,Adequate,True,University,Unemployed,True,35-54,Other
+C031,H031,P0231,ON,Urban,5,Adequate,True,High School,Retired,True,0-17,Male
+C032,H032,P0232,AB,Urban,3,Adequate,True,University,Unemployed,True,55+,Male
+C033,H033,P0233,QC,Suburban,4,Adequate,True,College,Unemployed,True,55+,Female
+C034,H034,P0234,AB,Rural,2,Adequate,True,College,Employed,True,18-34,Male
+C035,H035,P0235,NB,Remote,1,Adequate,False,University,Student,True,55+,Other
+C036,H036,P0236,NB,Rural,5,Adequate,True,College,Unemployed,True,0-17,Other
+C037,H037,P0237,NL,Urban,3,Adequate,True,University,Student,True,35-54,Other
+C038,H038,P0238,MB,Rural,3,Adequate,True,College,Student,True,18-34,Other
+C039,H039,P0239,NS,Urban,2,Adequate,True,High School,Student,True,55+,Female
+C040,H040,P0240,BC,Rural,1,Adequate,True,None,Retired,True,0-17,Male
+C041,H041,P0241,PE,Suburban,2,Adequate,True,High School,Student,True,35-54,Female
+C042,H042,P0242,AB,Rural,2,Adequate,True,High School,Unemployed,True,35-54,Male
+C043,H043,P0243,PE,Urban,6,Adequate,True,None,Retired,True,18-34,Male
+C044,H044,P0244,NL,Remote,5,Adequate,True,College,Student,True,0-17,Male
+C045,H045,P0245,PE,Remote,3,Adequate,True,None,Employed,True,0-17,Female
+C046,H046,P0246,PE,Remote,6,Adequate,True,University,Student,True,18-34,Male
+C047,H047,P0247,ON,Urban,4,Adequate,True,None,Student,True,35-54,Female
+C048,H048,P0248,QC,Rural,3,Needs Major Repairs,True,High School,Retired,True,0-17,Other
+C049,H049,P0249,MB,Remote,3,Adequate,True,None,Unemployed,True,18-34,Other
+C050,H050,P0250,BC,Remote,5,Needs Major Repairs,True,College,Student,True,0-17,Male
+C051,H051,P0251,QC,Remote,4,Needs Major Repairs,True,High School,Retired,True,35-54,Female
+C052,H052,P0252,ON,Suburban,1,Adequate,True,University,Retired,True,0-17,Other
+C053,H053,P0253,PE,Urban,4,Adequate,True,College,Unemployed,True,18-34,Female
+C054,H054,P0254,BC,Urban,1,Adequate,False,High School,Retired,True,0-17,Female
+C055,H055,P0255,ON,Urban,4,Needs Major Repairs,True,University,Unemployed,True,18-34,Male
+C056,H056,P0256,ON,Urban,2,Adequate,True,College,Employed,True,35-54,Other
+C057,H057,P0257,ON,Urban,4,Needs Major Repairs,True,University,Student,True,18-34,Male
+C058,H058,P0258,NB,Suburban,6,Adequate,True,None,Retired,True,0-17,Male
+C059,H059,P0259,BC,Rural,6,Adequate,True,None,Employed,True,35-54,Other
+C060,H060,P0260,ON,Suburban,5,Adequate,True,University,Retired,True,35-54,Other
+C061,H061,P0261,NS,Remote,1,Adequate,True,None,Retired,True,0-17,Female
+C062,H062,P0262,PE,Suburban,3,Adequate,True,University,Employed,True,35-54,Other
+C063,H063,P0263,BC,Urban,5,Adequate,True,College,Retired,True,55+,Female
+C064,H064,P0264,NB,Suburban,6,Needs Major Repairs,True,High School,Retired,True,0-17,Female
+C065,H065,P0265,AB,Urban,6,Adequate,True,University,Employed,True,35-54,Female
+C066,H066,P0266,AB,Suburban,1,Adequate,True,High School,Retired,True,35-54,Other
+C067,H067,P0267,MB,Urban,6,Adequate,True,High School,Unemployed,True,18-34,Male
+C068,H068,P0268,SK,Remote,6,Adequate,True,University,Retired,True,0-17,Female
+C069,H069,P0269,NS,Urban,1,Adequate,True,None,Student,True,0-17,Male
+C070,H070,P0270,AB,Suburban,6,Adequate,True,College,Retired,True,55+,Male
+C071,H071,P0271,NB,Remote,3,Adequate,True,High School,Student,True,55+,Other
+C072,H072,P0272,SK,Suburban,2,Adequate,True,College,Student,True,35-54,Male
+C073,H073,P0273,ON,Remote,5,Adequate,True,High School,Retired,True,18-34,Male
+C074,H074,P0274,ON,Rural,3,Adequate,False,University,Employed,True,35-54,Other
+C075,H075,P0275,NL,Rural,3,Adequate,True,None,Unemployed,True,35-54,Female
+C076,H076,P0276,PE,Rural,2,Adequate,False,College,Unemployed,True,18-34,Male
+C077,H077,P0277,SK,Suburban,5,Adequate,True,High School,Retired,True,0-17,Other
+C078,H078,P0278,PE,Suburban,3,Adequate,True,University,Employed,True,35-54,Male
+C079,H079,P0279,NB,Remote,6,Adequate,True,University,Employed,True,18-34,Male
+C080,H080,P0280,NS,Remote,2,Adequate,True,High School,Unemployed,True,35-54,Female
+C081,H081,P0281,SK,Remote,5,Needs Major Repairs,True,High School,Employed,True,18-34,Male
+C082,H082,P0282,AB,Remote,4,Needs Major Repairs,True,High School,Retired,True,0-17,Other
+C083,H083,P0283,NS,Urban,1,Adequate,True,None,Retired,True,0-17,Male
+C084,H084,P0284,NL,Rural,6,Adequate,True,High School,Employed,True,18-34,Female
+C085,H085,P0285,PE,Urban,2,Needs Major Repairs,True,High School,Retired,True,55+,Female
+C086,H086,P0286,PE,Urban,1,Adequate,True,None,Student,True,0-17,Other
+C087,H087,P0287,NS,Urban,4,Adequate,True,University,Unemployed,True,55+,Female
+C088,H088,P0288,ON,Urban,3,Adequate,True,High School,Retired,True,18-34,Male
+C089,H089,P0289,PE,Rural,3,Adequate,True,College,Employed,True,35-54,Female
+C090,H090,P0290,NL,Urban,5,Needs Major Repairs,True,University,Unemployed,True,18-34,Other
+C091,H091,P0291,AB,Remote,2,Adequate,True,College,Retired,True,35-54,Female
+C092,H092,P0292,BC,Suburban,2,Adequate,True,High School,Unemployed,True,35-54,Female
+C093,H093,P0293,AB,Remote,5,Adequate,True,None,Employed,True,18-34,Female
+C094,H094,P0294,AB,Suburban,1,Adequate,True,None,Student,True,0-17,Other
+C095,H095,P0295,PE,Remote,3,Needs Major Repairs,True,None,Student,True,55+,Female
+C096,H096,P0296,QC,Remote,3,Adequate,True,High School,Retired,True,55+,Female
+C097,H097,P0297,ON,Suburban,2,Adequate,True,High School,Student,True,0-17,Male
+C098,H098,P0298,PE,Rural,2,Adequate,True,College,Retired,True,35-54,Other
+C099,H099,P0299,ON,Urban,5,Needs Major Repairs,True,None,Unemployed,True,55+,Female
+C100,H100,P0300,NB,Remote,4,Adequate,True,High School,Retired,True,55+,Other
+C001,H101,P0301,QC,Rural,1,Adequate,True,University,Retired,True,55+,Female
+C002,H102,P0302,PE,Urban,6,Adequate,True,High School,Retired,True,35-54,Female
+C003,H103,P0303,MB,Rural,4,Adequate,False,High School,Student,True,18-34,Female
+C004,H104,P0304,AB,Rural,4,Adequate,True,University,Retired,True,18-34,Male
+C005,H105,P0305,NB,Urban,2,Adequate,True,None,Employed,True,18-34,Male
+C006,H106,P0306,QC,Remote,2,Adequate,True,University,Retired,True,35-54,Male
+C007,H107,P0307,PE,Rural,2,Adequate,True,None,Unemployed,True,35-54,Other
+C008,H108,P0308,NL,Remote,4,Adequate,True,University,Employed,True,18-34,Other
+C009,H109,P0309,NS,Remote,1,Adequate,True,College,Unemployed,True,55+,Male
+C010,H110,P0310,NS,Remote,2,Adequate,True,None,Unemployed,True,35-54,Other
+C011,H111,P0311,ON,Urban,3,Adequate,True,High School,Unemployed,True,35-54,Female
+C012,H112,P0312,QC,Suburban,1,Adequate,True,College,Employed,True,18-34,Female
+C013,H113,P0313,AB,Remote,3,Adequate,True,None,Employed,True,18-34,Female
+C014,H114,P0314,AB,Suburban,1,Adequate,True,None,Student,True,0-17,Male
+C015,H115,P0315,BC,Suburban,2,Adequate,True,None,Employed,True,18-34,Other
+C016,H116,P0316,NS,Rural,6,Needs Major Repairs,True,University,Retired,True,0-17,Male
+C017,H117,P0317,NB,Remote,5,Adequate,True,None,Unemployed,True,0-17,Other
+C018,H118,P0318,QC,Remote,2,Needs Major Repairs,True,High School,Student,True,18-34,Female
+C019,H119,P0319,AB,Remote,4,Adequate,True,None,Employed,True,18-34,Male
+C020,H120,P0320,BC,Suburban,6,Adequate,True,High School,Unemployed,True,0-17,Other
+C021,H121,P0321,QC,Urban,4,Adequate,False,High School,Employed,True,35-54,Other
+C022,H122,P0322,SK,Suburban,1,Adequate,True,High School,Student,True,18-34,Female
+C023,H123,P0323,AB,Remote,4,Adequate,True,College,Employed,True,55+,Male
+C024,H124,P0324,SK,Remote,6,Adequate,True,High School,Employed,True,55+,Male
+C025,H125,P0325,QC,Remote,6,Needs Major Repairs,True,University,Unemployed,True,0-17,Male
+C026,H126,P0326,AB,Suburban,2,Adequate,True,None,Retired,True,18-34,Female
+C027,H127,P0327,SK,Remote,3,Needs Major Repairs,True,University,Employed,True,0-17,Male
+C028,H128,P0328,MB,Rural,2,Needs Major Repairs,True,College,Student,True,35-54,Female
+C029,H129,P0329,BC,Remote,1,Adequate,True,None,Employed,True,35-54,Female
+C030,H130,P0330,NB,Urban,4,Adequate,True,High School,Employed,True,18-34,Female
+C031,H131,P0331,NS,Rural,3,Adequate,True,None,Retired,True,35-54,Other
+C032,H132,P0332,BC,Remote,5,Needs Major Repairs,True,College,Unemployed,True,18-34,Male
+C033,H133,P0333,SK,Rural,6,Adequate,True,College,Student,True,0-17,Male
+C034,H134,P0334,AB,Remote,3,Adequate,False,University,Unemployed,True,35-54,Female
+C035,H135,P0335,MB,Urban,3,Adequate,True,None,Unemployed,True,18-34,Female
+C036,H136,P0336,MB,Remote,2,Needs Major Repairs,True,None,Unemployed,True,35-54,Male
+C037,H137,P0337,NS,Rural,5,Adequate,True,None,Employed,True,18-34,Female
+C038,H138,P0338,MB,Urban,6,Adequate,False,University,Retired,True,55+,Male
+C039,H139,P0339,BC,Suburban,1,Adequate,True,College,Employed,True,0-17,Other
+C040,H140,P0340,PE,Urban,1,Needs Major Repairs,True,High School,Student,True,18-34,Female
+C041,H141,P0341,MB,Urban,3,Adequate,True,None,Retired,True,35-54,Male
+C042,H142,P0342,NS,Urban,3,Adequate,True,University,Unemployed,True,18-34,Female
+C043,H143,P0343,MB,Rural,4,Adequate,True,University,Retired,True,55+,Male
+C044,H144,P0344,MB,Urban,5,Needs Major Repairs,True,High School,Student,True,35-54,Male
+C045,H145,P0345,NL,Remote,6,Adequate,True,College,Employed,True,35-54,Female
+C046,H146,P0346,BC,Urban,3,Needs Major Repairs,False,None,Employed,True,35-54,Other
+C047,H147,P0347,SK,Urban,4,Adequate,True,None,Unemployed,True,55+,Male
+C048,H148,P0348,ON,Remote,5,Adequate,True,University,Employed,True,55+,Male
+C049,H149,P0349,PE,Remote,6,Adequate,True,College,Employed,True,35-54,Male
+C050,H150,P0350,MB,Suburban,1,Needs Major Repairs,False,None,Student,True,35-54,Other
+C051,H151,P0351,NB,Urban,4,Adequate,True,High School,Retired,True,0-17,Other
+C052,H152,P0352,MB,Rural,5,Needs Major Repairs,True,College,Employed,True,0-17,Female
+C053,H153,P0353,NL,Urban,4,Adequate,True,College,Student,True,35-54,Other
+C054,H154,P0354,SK,Urban,3,Adequate,True,University,Student,True,0-17,Female
+C055,H155,P0355,NB,Remote,2,Adequate,True,University,Unemployed,True,18-34,Female
+C056,H156,P0356,PE,Suburban,1,Adequate,True,None,Student,True,18-34,Other
+C057,H157,P0357,NB,Urban,3,Adequate,True,University,Unemployed,True,18-34,Female
+C058,H158,P0358,BC,Rural,3,Adequate,True,College,Employed,True,35-54,Other
+C059,H159,P0359,NS,Urban,5,Adequate,True,None,Unemployed,True,55+,Female
+C060,H160,P0360,NS,Rural,4,Needs Major Repairs,True,None,Student,True,0-17,Other
+C061,H161,P0361,PE,Remote,1,Adequate,True,College,Retired,True,18-34,Other
+C062,H162,P0362,SK,Suburban,3,Adequate,True,None,Retired,True,55+,Female
+C063,H163,P0363,NS,Urban,5,Adequate,True,High School,Employed,True,0-17,Male
+C064,H164,P0364,QC,Suburban,1,Adequate,True,High School,Employed,True,35-54,Female
+C065,H165,P0365,NL,Urban,4,Adequate,True,None,Retired,True,18-34,Other
+C066,H166,P0366,PE,Rural,3,Adequate,True,University,Unemployed,True,18-34,Male
+C067,H167,P0367,PE,Suburban,6,Adequate,True,High School,Employed,True,55+,Female
+C068,H168,P0368,ON,Urban,3,Adequate,True,None,Student,True,18-34,Female
+C069,H169,P0369,ON,Remote,3,Adequate,True,High School,Employed,True,35-54,Female
+C070,H170,P0370,BC,Rural,1,Adequate,False,University,Unemployed,True,35-54,Male
+C071,H171,P0371,BC,Suburban,1,Adequate,True,College,Employed,True,0-17,Other
+C072,H172,P0372,ON,Urban,1,Adequate,True,None,Student,True,35-54,Female
+C073,H173,P0373,NS,Suburban,1,Adequate,True,None,Student,True,55+,Female
+C074,H174,P0374,AB,Urban,5,Adequate,False,None,Student,True,0-17,Female
+C075,H175,P0375,PE,Rural,2,Adequate,True,None,Unemployed,True,55+,Female
+C076,H176,P0376,QC,Remote,5,Adequate,True,None,Unemployed,True,35-54,Female
+C077,H177,P0377,PE,Rural,3,Adequate,True,None,Student,True,35-54,Other
+C078,H178,P0378,MB,Suburban,5,Adequate,True,University,Student,True,35-54,Other
+C079,H179,P0379,SK,Suburban,4,Adequate,True,College,Unemployed,True,18-34,Female
+C080,H180,P0380,NL,Urban,6,Adequate,True,University,Unemployed,True,55+,Male
+C081,H181,P0381,AB,Rural,1,Adequate,True,University,Unemployed,True,55+,Other
+C082,H182,P0382,QC,Urban,4,Adequate,True,College,Retired,True,35-54,Male
+C083,H183,P0383,MB,Rural,6,Needs Major Repairs,True,University,Unemployed,True,35-54,Other
+C084,H184,P0384,BC,Suburban,4,Adequate,True,High School,Student,True,35-54,Female
+C085,H185,P0385,QC,Urban,3,Adequate,True,University,Retired,True,18-34,Other
+C086,H186,P0386,ON,Urban,1,Needs Major Repairs,True,None,Unemployed,True,35-54,Female
+C087,H187,P0387,PE,Rural,4,Adequate,True,High School,Student,True,35-54,Other
+C088,H188,P0388,QC,Remote,3,Adequate,True,High School,Employed,True,35-54,Female
+C089,H189,P0389,SK,Rural,1,Adequate,True,College,Retired,True,35-54,Female
+C090,H190,P0390,NB,Remote,2,Adequate,True,University,Student,True,18-34,Female
+C091,H191,P0391,BC,Rural,3,Adequate,True,University,Employed,True,0-17,Female
+C092,H192,P0392,NL,Suburban,5,Needs Major Repairs,False,High School,Student,True,0-17,Male
+C093,H193,P0393,NL,Urban,1,Adequate,True,University,Unemployed,True,18-34,Female
+C094,H194,P0394,QC,Rural,4,Adequate,True,University,Unemployed,True,35-54,Male
+C095,H195,P0395,NB,Suburban,6,Adequate,True,College,Employed,True,35-54,Male
+C096,H196,P0396,PE,Rural,4,Adequate,True,High School,Unemployed,True,35-54,Female
+C097,H197,P0397,MB,Urban,5,Adequate,True,None,Student,True,18-34,Male
+C098,H198,P0398,AB,Rural,5,Needs Major Repairs,True,High School,Employed,True,35-54,Other
+C099,H199,P0399,PE,Remote,4,Needs Major Repairs,False,College,Student,True,18-34,Female
+C100,H200,P0400,MB,Urban,6,Adequate,True,College,Student,True,18-34,Male
+C001,H001,P0401,AB,Remote,1,Needs Major Repairs,False,College,Student,True,35-54,Female
+C002,H002,P0402,NB,Suburban,3,Adequate,True,University,Unemployed,True,55+,Female
+C003,H003,P0403,AB,Suburban,5,Adequate,True,High School,Unemployed,True,18-34,Female
+C004,H004,P0404,PE,Rural,5,Adequate,True,University,Student,True,0-17,Male
+C005,H005,P0405,SK,Remote,5,Adequate,True,University,Retired,True,0-17,Other
+C006,H006,P0406,QC,Remote,6,Adequate,True,High School,Student,True,0-17,Other
+C007,H007,P0407,MB,Urban,2,Adequate,True,College,Student,True,35-54,Male
+C008,H008,P0408,SK,Remote,6,Adequate,True,None,Employed,True,18-34,Female
+C009,H009,P0409,MB,Remote,1,Adequate,False,None,Student,True,18-34,Male
+C010,H010,P0410,QC,Urban,1,Adequate,True,High School,Unemployed,True,18-34,Male
+C011,H011,P0411,NS,Urban,1,Needs Major Repairs,True,High School,Employed,True,0-17,Male
+C012,H012,P0412,AB,Remote,1,Adequate,True,College,Retired,True,18-34,Female
+C013,H013,P0413,NB,Rural,1,Adequate,True,High School,Employed,True,18-34,Male
+C014,H014,P0414,NS,Urban,4,Adequate,True,High School,Retired,True,18-34,Female
+C015,H015,P0415,NS,Urban,5,Adequate,True,College,Employed,True,18-34,Male
+C016,H016,P0416,NL,Remote,6,Adequate,True,College,Employed,True,35-54,Other
+C017,H017,P0417,ON,Remote,4,Adequate,True,University,Retired,True,0-17,Male
+C018,H018,P0418,PE,Urban,6,Adequate,True,High School,Unemployed,True,55+,Male
+C019,H019,P0419,SK,Remote,2,Adequate,True,None,Unemployed,True,18-34,Other
+C020,H020,P0420,SK,Urban,3,Adequate,True,High School,Unemployed,True,35-54,Female
+C021,H021,P0421,SK,Rural,5,Adequate,True,None,Employed,True,35-54,Female
+C022,H022,P0422,SK,Rural,2,Adequate,True,None,Student,True,35-54,Male
+C023,H023,P0423,PE,Urban,4,Adequate,True,None,Employed,True,35-54,Other
+C024,H024,P0424,NS,Urban,3,Adequate,True,University,Student,True,18-34,Female
+C025,H025,P0425,PE,Suburban,2,Adequate,True,College,Student,True,18-34,Male
+C026,H026,P0426,SK,Suburban,6,Adequate,True,College,Unemployed,True,18-34,Other
+C027,H027,P0427,ON,Remote,3,Needs Major Repairs,True,University,Student,True,35-54,Female
+C028,H028,P0428,BC,Remote,6,Adequate,True,College,Employed,True,0-17,Female
+C029,H029,P0429,QC,Urban,2,Adequate,False,University,Employed,True,18-34,Other
+C030,H030,P0430,SK,Urban,4,Adequate,True,High School,Unemployed,True,35-54,Other
+C031,H031,P0431,NB,Suburban,6,Adequate,True,University,Retired,True,35-54,Other
+C032,H032,P0432,BC,Suburban,3,Adequate,True,College,Employed,True,35-54,Other
+C033,H033,P0433,PE,Urban,2,Needs Major Repairs,True,College,Student,True,35-54,Male
+C034,H034,P0434,NB,Rural,6,Needs Major Repairs,True,High School,Employed,True,55+,Other
+C035,H035,P0435,NB,Rural,4,Adequate,True,University,Employed,True,18-34,Female
+C036,H036,P0436,MB,Remote,5,Adequate,True,High School,Employed,True,18-34,Female
+C037,H037,P0437,NB,Urban,4,Adequate,True,None,Retired,True,18-34,Male
+C038,H038,P0438,SK,Urban,4,Adequate,True,University,Student,True,18-34,Female
+C039,H039,P0439,MB,Remote,5,Adequate,True,High School,Unemployed,True,35-54,Female
+C040,H040,P0440,NL,Suburban,4,Adequate,True,High School,Employed,True,18-34,Other
+C041,H041,P0441,NS,Suburban,5,Adequate,True,College,Student,True,35-54,Female
+C042,H042,P0442,NB,Rural,5,Adequate,True,University,Student,True,18-34,Male
+C043,H043,P0443,ON,Urban,6,Adequate,False,None,Unemployed,True,35-54,Other
+C044,H044,P0444,QC,Suburban,6,Adequate,True,None,Employed,True,35-54,Other
+C045,H045,P0445,NB,Rural,5,Adequate,True,University,Retired,True,18-34,Male
+C046,H046,P0446,NL,Rural,2,Adequate,True,University,Student,True,18-34,Other
+C047,H047,P0447,AB,Rural,3,Needs Major Repairs,False,High School,Unemployed,True,18-34,Other
+C048,H048,P0448,PE,Suburban,2,Adequate,True,College,Retired,True,0-17,Male
+C049,H049,P0449,PE,Suburban,5,Adequate,True,College,Student,True,18-34,Other
+C050,H050,P0450,NL,Urban,3,Adequate,True,College,Employed,True,0-17,Male
+C051,H051,P0451,AB,Urban,6,Adequate,True,University,Student,True,18-34,Male
+C052,H052,P0452,PE,Rural,3,Adequate,True,College,Retired,True,35-54,Female
+C053,H053,P0453,PE,Rural,5,Adequate,True,High School,Retired,True,35-54,Female
+C054,H054,P0454,PE,Suburban,6,Needs Major Repairs,True,University,Employed,True,35-54,Other
+C055,H055,P0455,NL,Suburban,3,Adequate,True,University,Employed,True,0-17,Other
+C056,H056,P0456,NS,Urban,3,Adequate,True,College,Unemployed,True,35-54,Male
+C057,H057,P0457,QC,Urban,2,Adequate,True,None,Employed,True,18-34,Other
+C058,H058,P0458,NL,Remote,3,Needs Major Repairs,True,None,Unemployed,True,18-34,Male
+C059,H059,P0459,AB,Urban,5,Adequate,True,High School,Retired,True,55+,Male
+C060,H060,P0460,NB,Suburban,1,Needs Major Repairs,True,College,Retired,True,0-17,Other
+C061,H061,P0461,NS,Rural,1,Needs Major Repairs,True,College,Student,True,35-54,Male
+C062,H062,P0462,NS,Remote,1,Adequate,True,University,Student,True,35-54,Female
+C063,H063,P0463,NB,Urban,5,Needs Major Repairs,True,University,Unemployed,True,18-34,Other
+C064,H064,P0464,ON,Urban,1,Needs Major Repairs,True,College,Employed,True,18-34,Female
+C065,H065,P0465,MB,Suburban,2,Adequate,True,University,Employed,True,18-34,Other
+C066,H066,P0466,QC,Remote,5,Adequate,True,College,Student,True,55+,Male
+C067,H067,P0467,QC,Urban,6,Adequate,True,High School,Retired,True,18-34,Other
+C068,H068,P0468,ON,Rural,5,Adequate,True,University,Unemployed,True,18-34,Female
+C069,H069,P0469,MB,Suburban,5,Adequate,True,College,Retired,True,18-34,Male
+C070,H070,P0470,QC,Remote,3,Adequate,True,University,Retired,True,35-54,Other
+C071,H071,P0471,AB,Urban,3,Adequate,True,High School,Employed,True,0-17,Other
+C072,H072,P0472,BC,Urban,3,Adequate,True,University,Unemployed,True,18-34,Other
+C073,H073,P0473,BC,Remote,4,Adequate,True,College,Retired,True,35-54,Female
+C074,H074,P0474,QC,Suburban,2,Needs Major Repairs,True,University,Student,True,55+,Female
+C075,H075,P0475,SK,Remote,5,Adequate,True,University,Student,True,18-34,Other
+C076,H076,P0476,QC,Remote,5,Adequate,True,College,Employed,True,18-34,Male
+C077,H077,P0477,NB,Suburban,3,Adequate,True,None,Student,True,18-34,Male
+C078,H078,P0478,NB,Urban,5,Adequate,True,University,Student,True,35-54,Female
+C079,H079,P0479,MB,Rural,6,Needs Major Repairs,True,University,Retired,True,18-34,Male
+C080,H080,P0480,PE,Suburban,5,Adequate,True,High School,Student,True,18-34,Female
+C081,H081,P0481,NS,Rural,1,Adequate,True,None,Student,True,35-54,Other
+C082,H082,P0482,AB,Urban,6,Needs Major Repairs,True,High School,Retired,True,35-54,Female
+C083,H083,P0483,ON,Remote,6,Needs Major Repairs,True,College,Employed,True,18-34,Female
+C084,H084,P0484,QC,Rural,5,Adequate,True,College,Employed,True,55+,Other
+C085,H085,P0485,PE,Urban,4,Adequate,True,High School,Unemployed,True,35-54,Male
+C086,H086,P0486,PE,Urban,3,Adequate,True,University,Student,True,18-34,Female
+C087,H087,P0487,AB,Remote,2,Adequate,False,None,Retired,True,0-17,Female
+C088,H088,P0488,ON,Remote,2,Adequate,True,High School,Unemployed,True,55+,Other
+C089,H089,P0489,NB,Urban,1,Adequate,True,High School,Employed,True,0-17,Male
+C090,H090,P0490,NL,Urban,2,Needs Major Repairs,True,College,Employed,True,18-34,Female
+C091,H091,P0491,AB,Rural,2,Adequate,True,University,Retired,True,0-17,Other
+C092,H092,P0492,PE,Urban,3,Adequate,True,None,Unemployed,True,35-54,Female
+C093,H093,P0493,BC,Urban,3,Needs Major Repairs,True,High School,Unemployed,True,18-34,Other
+C094,H094,P0494,QC,Rural,4,Adequate,True,None,Retired,True,0-17,Male
+C095,H095,P0495,MB,Suburban,1,Needs Major Repairs,True,None,Retired,True,0-17,Male
+C096,H096,P0496,BC,Rural,2,Needs Major Repairs,True,High School,Unemployed,True,0-17,Male
+C097,H097,P0497,PE,Rural,4,Adequate,False,None,Employed,True,35-54,Male
+C098,H098,P0498,NS,Remote,1,Adequate,True,College,Student,True,35-54,Female
+C099,H099,P0499,SK,Rural,6,Adequate,False,University,Employed,True,18-34,Female
+C100,H100,P0500,ON,Urban,2,Adequate,False,University,Retired,True,18-34,Male

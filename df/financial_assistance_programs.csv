@@ -1,0 +1,501 @@
+AidID,PersonID,ProgramType,DisbursementDate,Amount,EligibilityStatus,PaymentMethod,Province,IncomeBracket,AgeGroup,ReceivedThroughIndigenousServices
+A0001,P0001,GIS,2023-09-29,2074,Pending,Direct Deposit,QC,High,18-34,False
+A0002,P0002,CRB,2025-03-17,2080,Eligible,Direct Deposit,NS,Medium,35-54,False
+A0003,P0003,GST Credit,2023-02-09,2942,Eligible,Direct Deposit,QC,Low,35-54,False
+A0004,P0004,CERB,2024-07-29,2873,Eligible,Cheque,PE,Medium,18-34,True
+A0005,P0005,CRB,2024-08-12,1614,Ineligible,Direct Deposit,NB,Medium,18-34,True
+A0006,P0006,CERB,2023-12-12,1249,Eligible,Direct Deposit,NB,Medium,35-54,True
+A0007,P0007,GST Credit,2022-06-28,1593,Eligible,Direct Deposit,ON,Low,18-34,True
+A0008,P0008,CRB,2024-04-18,1689,Eligible,Direct Deposit,NB,High,0-17,False
+A0009,P0009,GST Credit,2023-05-23,2761,Eligible,Cheque,QC,High,55+,True
+A0010,P0010,CCB,2024-07-20,2375,Eligible,Direct Deposit,SK,Low,35-54,True
+A0011,P0011,GST Credit,2023-03-06,2287,Pending,Direct Deposit,ON,High,35-54,True
+A0012,P0012,CCB,2025-01-26,2916,Pending,Direct Deposit,MB,High,35-54,True
+A0013,P0013,CRB,2022-09-29,2107,Eligible,Direct Deposit,NS,Medium,18-34,False
+A0014,P0014,CCB,2024-01-12,548,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0015,P0015,CRB,2025-01-01,1575,Pending,Direct Deposit,ON,Low,18-34,True
+A0016,P0016,CRB,2024-11-13,1812,Eligible,Direct Deposit,QC,Low,0-17,True
+A0017,P0017,GIS,2025-02-07,2149,Eligible,Direct Deposit,NS,Medium,18-34,True
+A0018,P0018,CRB,2022-09-09,2680,Eligible,Direct Deposit,SK,High,18-34,False
+A0019,P0019,CCB,2023-10-20,1689,Eligible,Direct Deposit,BC,Medium,35-54,False
+A0020,P0020,GIS,2024-07-21,1897,Eligible,Direct Deposit,PE,Medium,0-17,False
+A0021,P0021,GIS,2024-04-27,2920,Eligible,Direct Deposit,QC,Low,0-17,False
+A0022,P0022,CRB,2023-01-02,2328,Eligible,Direct Deposit,PE,Low,18-34,True
+A0023,P0023,GST Credit,2023-09-18,978,Eligible,Direct Deposit,AB,Medium,18-34,False
+A0024,P0024,GST Credit,2025-05-14,1331,Pending,Direct Deposit,BC,Low,35-54,True
+A0025,P0025,GIS,2023-01-02,2114,Ineligible,Direct Deposit,NS,Medium,18-34,True
+A0026,P0026,CRB,2022-07-18,1181,Ineligible,Cheque,NB,Low,35-54,False
+A0027,P0027,GST Credit,2024-04-24,1823,Eligible,Cheque,QC,Medium,18-34,True
+A0028,P0028,CRB,2024-04-07,581,Eligible,Direct Deposit,PE,Low,35-54,False
+A0029,P0029,CRB,2022-09-16,586,Eligible,Direct Deposit,NS,Medium,35-54,True
+A0030,P0030,GIS,2023-12-04,2772,Pending,Direct Deposit,NB,Medium,18-34,False
+A0031,P0031,GIS,2024-11-24,2563,Eligible,Direct Deposit,SK,Low,35-54,False
+A0032,P0032,CERB,2023-08-27,1321,Eligible,Direct Deposit,SK,Low,18-34,False
+A0033,P0033,GST Credit,2022-07-17,662,Eligible,Direct Deposit,PE,Low,18-34,False
+A0034,P0034,GST Credit,2022-11-06,2897,Eligible,Cheque,ON,High,55+,False
+A0035,P0035,GST Credit,2024-03-25,2432,Eligible,Direct Deposit,AB,Low,0-17,True
+A0036,P0036,CCB,2022-09-01,2350,Pending,Direct Deposit,ON,Medium,0-17,True
+A0037,P0037,CRB,2024-07-12,2360,Ineligible,Direct Deposit,AB,High,35-54,True
+A0038,P0038,GIS,2023-08-01,1615,Eligible,Direct Deposit,QC,Medium,0-17,False
+A0039,P0039,GST Credit,2025-04-07,2728,Pending,Direct Deposit,MB,Low,35-54,True
+A0040,P0040,CERB,2023-11-28,2382,Eligible,Direct Deposit,PE,High,18-34,False
+A0041,P0041,GST Credit,2023-09-15,1422,Eligible,Direct Deposit,NL,Low,55+,True
+A0042,P0042,CRB,2023-03-24,2675,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0043,P0043,CRB,2024-02-28,1949,Eligible,Direct Deposit,BC,High,35-54,False
+A0044,P0044,GIS,2025-02-02,2082,Eligible,Direct Deposit,NB,Medium,55+,True
+A0045,P0045,CCB,2023-01-23,1064,Ineligible,Direct Deposit,BC,Medium,18-34,True
+A0046,P0046,GIS,2025-05-13,970,Eligible,Direct Deposit,SK,Low,55+,True
+A0047,P0047,GST Credit,2022-07-18,1487,Eligible,Direct Deposit,AB,Low,0-17,False
+A0048,P0048,CERB,2022-10-25,2434,Eligible,Cheque,NB,Medium,18-34,False
+A0049,P0049,GIS,2023-03-31,723,Ineligible,Direct Deposit,SK,Low,18-34,True
+A0050,P0050,CCB,2023-03-23,2701,Eligible,Cheque,NB,High,18-34,True
+A0051,P0051,GIS,2023-04-24,850,Eligible,Cheque,ON,High,0-17,True
+A0052,P0052,CRB,2022-11-22,2428,Eligible,Direct Deposit,SK,High,35-54,False
+A0053,P0053,GST Credit,2022-07-20,848,Eligible,Direct Deposit,ON,Medium,35-54,False
+A0054,P0054,GST Credit,2025-01-23,681,Eligible,Cheque,ON,Medium,55+,True
+A0055,P0055,GST Credit,2022-12-22,1136,Eligible,Direct Deposit,NB,High,0-17,True
+A0056,P0056,GST Credit,2022-12-26,1517,Eligible,Direct Deposit,NS,High,35-54,True
+A0057,P0057,GST Credit,2023-03-09,2726,Eligible,Cheque,BC,Medium,18-34,False
+A0058,P0058,GST Credit,2024-01-07,1271,Ineligible,Direct Deposit,SK,Low,18-34,False
+A0059,P0059,CERB,2022-08-25,1515,Eligible,Direct Deposit,NL,Low,18-34,True
+A0060,P0060,CCB,2023-08-07,2611,Eligible,Direct Deposit,NS,Medium,18-34,True
+A0061,P0061,GST Credit,2025-04-24,528,Pending,Direct Deposit,BC,Medium,35-54,True
+A0062,P0062,CCB,2024-11-22,2919,Eligible,Direct Deposit,SK,High,35-54,False
+A0063,P0063,GST Credit,2023-03-21,2644,Pending,Direct Deposit,AB,Low,18-34,True
+A0064,P0064,GIS,2023-05-10,2393,Eligible,Direct Deposit,BC,Low,0-17,False
+A0065,P0065,GST Credit,2025-05-25,1965,Eligible,Direct Deposit,NL,Low,0-17,False
+A0066,P0066,CRB,2023-01-24,1726,Eligible,Direct Deposit,PE,Low,0-17,True
+A0067,P0067,CERB,2022-09-29,2568,Pending,Direct Deposit,QC,Low,55+,True
+A0068,P0068,GIS,2024-10-23,1625,Eligible,Direct Deposit,ON,Medium,0-17,True
+A0069,P0069,GIS,2022-12-19,565,Eligible,Direct Deposit,QC,Medium,0-17,False
+A0070,P0070,CRB,2024-04-19,1634,Pending,Direct Deposit,NS,Medium,18-34,False
+A0071,P0071,GST Credit,2024-03-03,837,Eligible,Direct Deposit,PE,Low,35-54,False
+A0072,P0072,CERB,2025-01-31,2670,Eligible,Cheque,ON,Low,55+,True
+A0073,P0073,GIS,2023-10-01,2228,Eligible,Direct Deposit,SK,Medium,35-54,True
+A0074,P0074,CERB,2024-02-28,946,Eligible,Direct Deposit,NS,High,35-54,False
+A0075,P0075,GIS,2025-06-04,780,Eligible,Direct Deposit,NL,Low,18-34,False
+A0076,P0076,GST Credit,2023-04-26,1095,Eligible,Cheque,NB,High,0-17,True
+A0077,P0077,GIS,2024-12-11,2486,Eligible,Direct Deposit,SK,Low,55+,False
+A0078,P0078,GIS,2025-05-18,1574,Eligible,Direct Deposit,BC,High,35-54,False
+A0079,P0079,CCB,2024-06-24,709,Pending,Direct Deposit,NB,High,35-54,True
+A0080,P0080,GST Credit,2025-04-13,625,Pending,Direct Deposit,NS,Low,35-54,False
+A0081,P0081,CRB,2023-06-28,991,Eligible,Direct Deposit,BC,Medium,35-54,False
+A0082,P0082,CRB,2023-06-14,1469,Ineligible,Direct Deposit,NL,Low,35-54,False
+A0083,P0083,GST Credit,2023-05-23,1080,Eligible,Direct Deposit,QC,High,55+,True
+A0084,P0084,CRB,2023-10-13,2805,Eligible,Cheque,BC,Medium,55+,True
+A0085,P0085,GST Credit,2024-03-03,1711,Ineligible,Direct Deposit,QC,Medium,35-54,False
+A0086,P0086,CRB,2024-05-27,729,Eligible,Direct Deposit,ON,Medium,35-54,True
+A0087,P0087,CCB,2023-07-30,688,Eligible,Direct Deposit,AB,High,0-17,True
+A0088,P0088,CRB,2025-05-06,2557,Ineligible,Cheque,MB,Low,35-54,True
+A0089,P0089,GIS,2024-07-27,1001,Eligible,Direct Deposit,SK,Medium,0-17,True
+A0090,P0090,GST Credit,2024-04-25,2632,Ineligible,Cheque,MB,Low,35-54,False
+A0091,P0091,CERB,2025-01-25,548,Eligible,Cheque,ON,Low,55+,False
+A0092,P0092,CERB,2022-12-14,1188,Eligible,Direct Deposit,BC,Medium,35-54,True
+A0093,P0093,GST Credit,2023-04-18,886,Eligible,Direct Deposit,ON,Low,18-34,True
+A0094,P0094,CCB,2023-03-03,1469,Eligible,Direct Deposit,MB,Low,18-34,True
+A0095,P0095,CRB,2022-11-07,1505,Ineligible,Direct Deposit,MB,High,0-17,False
+A0096,P0096,CCB,2023-02-26,2765,Eligible,Direct Deposit,SK,Low,35-54,False
+A0097,P0097,CERB,2023-06-04,2224,Eligible,Direct Deposit,NB,Medium,0-17,True
+A0098,P0098,GST Credit,2023-10-04,2504,Eligible,Cheque,PE,Low,0-17,False
+A0099,P0099,GST Credit,2022-07-22,2802,Eligible,Direct Deposit,ON,Low,18-34,False
+A0100,P0100,CCB,2023-06-11,2783,Eligible,Cheque,AB,Low,35-54,False
+A0101,P0101,CCB,2022-10-30,2107,Pending,Direct Deposit,PE,Medium,35-54,False
+A0102,P0102,CRB,2025-05-24,2289,Eligible,Direct Deposit,ON,Medium,0-17,True
+A0103,P0103,GIS,2024-01-08,770,Eligible,Cheque,NL,Low,18-34,False
+A0104,P0104,GIS,2024-09-03,622,Ineligible,Direct Deposit,NS,Low,18-34,True
+A0105,P0105,CRB,2023-06-23,1780,Eligible,Direct Deposit,NS,High,35-54,False
+A0106,P0106,GIS,2022-07-02,1944,Eligible,Direct Deposit,MB,Low,35-54,False
+A0107,P0107,CERB,2022-07-06,758,Ineligible,Direct Deposit,NS,High,18-34,False
+A0108,P0108,GIS,2023-01-02,1447,Eligible,Direct Deposit,QC,Low,35-54,False
+A0109,P0109,CRB,2023-02-15,2594,Eligible,Direct Deposit,AB,Medium,18-34,True
+A0110,P0110,GIS,2024-10-11,1362,Eligible,Direct Deposit,NS,Low,55+,True
+A0111,P0111,GST Credit,2024-02-13,1024,Pending,Cheque,BC,High,18-34,False
+A0112,P0112,CCB,2024-12-30,1387,Pending,Direct Deposit,QC,Medium,18-34,False
+A0113,P0113,CERB,2024-10-20,707,Ineligible,Cheque,PE,Medium,18-34,True
+A0114,P0114,GST Credit,2024-05-22,648,Eligible,Direct Deposit,QC,Low,35-54,True
+A0115,P0115,GST Credit,2024-01-24,937,Eligible,Direct Deposit,ON,Medium,35-54,True
+A0116,P0116,CRB,2024-08-30,2702,Eligible,Direct Deposit,MB,Medium,18-34,False
+A0117,P0117,CCB,2023-07-23,2221,Eligible,Direct Deposit,SK,Low,35-54,False
+A0118,P0118,CCB,2023-08-26,857,Eligible,Cheque,SK,Low,35-54,True
+A0119,P0119,CERB,2025-04-15,1740,Pending,Direct Deposit,NL,High,18-34,True
+A0120,P0120,CRB,2024-06-25,2430,Pending,Direct Deposit,AB,Low,18-34,False
+A0121,P0121,CERB,2025-05-05,955,Eligible,Direct Deposit,ON,Medium,55+,False
+A0122,P0122,GIS,2023-10-05,2132,Eligible,Direct Deposit,SK,Medium,18-34,True
+A0123,P0123,GST Credit,2024-12-27,1128,Eligible,Cheque,MB,High,18-34,True
+A0124,P0124,CERB,2023-07-14,985,Eligible,Cheque,PE,High,55+,True
+A0125,P0125,GST Credit,2022-12-31,699,Ineligible,Direct Deposit,SK,High,0-17,True
+A0126,P0126,CRB,2023-04-18,870,Ineligible,Direct Deposit,BC,Low,0-17,True
+A0127,P0127,GIS,2023-05-04,1513,Eligible,Direct Deposit,QC,High,18-34,False
+A0128,P0128,CRB,2025-04-01,2482,Eligible,Direct Deposit,SK,Low,55+,False
+A0129,P0129,GIS,2025-03-29,1971,Eligible,Cheque,ON,Medium,0-17,False
+A0130,P0130,GIS,2022-09-24,747,Eligible,Direct Deposit,NS,Medium,0-17,False
+A0131,P0131,GST Credit,2024-08-09,1287,Eligible,Direct Deposit,NS,Low,0-17,True
+A0132,P0132,CRB,2024-05-21,2811,Eligible,Direct Deposit,PE,High,0-17,True
+A0133,P0133,CRB,2023-09-13,2578,Eligible,Cheque,NS,Low,0-17,True
+A0134,P0134,CERB,2023-03-27,2021,Ineligible,Direct Deposit,PE,Medium,18-34,True
+A0135,P0135,CRB,2022-08-28,1772,Eligible,Direct Deposit,ON,Medium,35-54,False
+A0136,P0136,CERB,2022-10-06,1104,Eligible,Direct Deposit,AB,Medium,18-34,False
+A0137,P0137,CCB,2023-08-15,2189,Eligible,Direct Deposit,NS,Low,18-34,True
+A0138,P0138,CCB,2023-12-01,1917,Eligible,Direct Deposit,NL,Medium,0-17,True
+A0139,P0139,CCB,2024-03-15,2320,Eligible,Direct Deposit,MB,High,18-34,False
+A0140,P0140,CRB,2025-06-05,1001,Eligible,Direct Deposit,QC,Low,18-34,True
+A0141,P0141,CRB,2024-01-03,1048,Eligible,Direct Deposit,NS,Medium,35-54,True
+A0142,P0142,CERB,2023-01-12,1865,Eligible,Direct Deposit,PE,Low,0-17,False
+A0143,P0143,GIS,2022-07-26,1338,Ineligible,Direct Deposit,ON,Medium,18-34,False
+A0144,P0144,CERB,2025-01-10,1930,Eligible,Direct Deposit,NS,High,18-34,True
+A0145,P0145,CCB,2025-03-21,1948,Ineligible,Direct Deposit,SK,Medium,55+,True
+A0146,P0146,CERB,2024-11-26,1347,Eligible,Direct Deposit,NS,Medium,35-54,False
+A0147,P0147,GIS,2023-12-13,1113,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0148,P0148,CRB,2022-09-29,911,Eligible,Cheque,BC,Medium,18-34,True
+A0149,P0149,CERB,2023-10-09,2979,Eligible,Direct Deposit,BC,Low,55+,False
+A0150,P0150,CCB,2023-07-29,1177,Pending,Direct Deposit,NS,Low,0-17,True
+A0151,P0151,CCB,2022-09-28,658,Eligible,Direct Deposit,QC,Medium,0-17,False
+A0152,P0152,CRB,2023-07-14,2561,Pending,Direct Deposit,ON,Medium,18-34,True
+A0153,P0153,CERB,2022-11-10,872,Pending,Direct Deposit,NL,Medium,0-17,False
+A0154,P0154,GIS,2025-01-31,2772,Eligible,Cheque,NL,Low,55+,True
+A0155,P0155,CRB,2025-04-03,1596,Eligible,Direct Deposit,NS,Low,35-54,True
+A0156,P0156,CERB,2024-07-30,1102,Eligible,Direct Deposit,NS,Low,18-34,True
+A0157,P0157,GST Credit,2022-08-12,715,Pending,Direct Deposit,BC,High,35-54,True
+A0158,P0158,CCB,2024-11-22,2496,Ineligible,Direct Deposit,PE,Medium,55+,False
+A0159,P0159,GIS,2025-01-28,2064,Eligible,Direct Deposit,QC,Low,55+,False
+A0160,P0160,GIS,2025-03-09,2340,Ineligible,Direct Deposit,NS,Low,35-54,True
+A0161,P0161,GIS,2024-02-03,2462,Eligible,Direct Deposit,NL,High,55+,True
+A0162,P0162,CCB,2025-01-16,1226,Eligible,Direct Deposit,ON,Low,55+,False
+A0163,P0163,CERB,2022-09-17,1744,Eligible,Cheque,AB,High,35-54,False
+A0164,P0164,CRB,2025-03-14,1565,Eligible,Cheque,SK,Low,0-17,True
+A0165,P0165,CERB,2023-12-06,1175,Ineligible,Direct Deposit,NS,High,18-34,True
+A0166,P0166,CRB,2023-12-03,782,Eligible,Direct Deposit,PE,High,35-54,True
+A0167,P0167,GIS,2023-01-16,1581,Eligible,Cheque,NS,Medium,18-34,False
+A0168,P0168,CERB,2024-06-17,2408,Eligible,Direct Deposit,PE,Low,35-54,True
+A0169,P0169,GIS,2022-10-06,1652,Eligible,Direct Deposit,QC,Low,0-17,False
+A0170,P0170,GST Credit,2024-01-20,1447,Eligible,Cheque,AB,Medium,0-17,True
+A0171,P0171,GIS,2025-05-08,1164,Eligible,Cheque,MB,Medium,18-34,False
+A0172,P0172,GIS,2023-04-10,2217,Eligible,Direct Deposit,ON,Low,0-17,True
+A0173,P0173,CRB,2024-08-27,1648,Eligible,Direct Deposit,ON,Low,55+,True
+A0174,P0174,GST Credit,2024-09-02,566,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0175,P0175,GIS,2024-06-02,2553,Eligible,Direct Deposit,BC,Medium,35-54,False
+A0176,P0176,GIS,2022-06-27,1136,Eligible,Direct Deposit,PE,Low,35-54,True
+A0177,P0177,GST Credit,2023-12-21,813,Eligible,Direct Deposit,BC,Low,18-34,True
+A0178,P0178,GST Credit,2024-03-28,1064,Eligible,Direct Deposit,NB,High,18-34,True
+A0179,P0179,CERB,2022-12-19,2101,Eligible,Direct Deposit,NL,Medium,35-54,True
+A0180,P0180,CRB,2024-06-09,1325,Eligible,Direct Deposit,ON,Medium,18-34,False
+A0181,P0181,GST Credit,2023-10-09,1605,Eligible,Direct Deposit,QC,Medium,18-34,False
+A0182,P0182,GST Credit,2023-12-21,1525,Pending,Direct Deposit,PE,Low,18-34,False
+A0183,P0183,CCB,2023-05-14,2751,Pending,Direct Deposit,QC,Low,18-34,True
+A0184,P0184,GST Credit,2025-02-01,1161,Eligible,Cheque,AB,Low,55+,False
+A0185,P0185,CRB,2024-10-24,1304,Eligible,Direct Deposit,QC,High,55+,True
+A0186,P0186,GIS,2025-05-28,2951,Ineligible,Direct Deposit,NS,Medium,18-34,True
+A0187,P0187,GIS,2025-01-06,1035,Eligible,Cheque,NL,Low,35-54,True
+A0188,P0188,GIS,2023-07-25,1891,Eligible,Direct Deposit,NS,High,35-54,True
+A0189,P0189,GIS,2022-09-14,1735,Ineligible,Direct Deposit,SK,Low,0-17,False
+A0190,P0190,CCB,2024-12-30,2420,Eligible,Cheque,PE,High,55+,False
+A0191,P0191,GST Credit,2025-02-17,2664,Eligible,Direct Deposit,ON,High,55+,False
+A0192,P0192,GIS,2024-01-12,1127,Eligible,Direct Deposit,PE,Low,18-34,True
+A0193,P0193,CERB,2022-11-28,1248,Eligible,Direct Deposit,NL,Low,18-34,True
+A0194,P0194,GIS,2025-05-03,604,Eligible,Direct Deposit,MB,Medium,18-34,True
+A0195,P0195,GST Credit,2024-05-11,545,Eligible,Cheque,MB,Medium,18-34,True
+A0196,P0196,GIS,2024-01-09,1854,Eligible,Cheque,SK,Medium,0-17,True
+A0197,P0197,CCB,2024-10-31,1739,Eligible,Direct Deposit,NL,High,55+,True
+A0198,P0198,CRB,2023-02-24,1481,Eligible,Direct Deposit,NB,Medium,0-17,True
+A0199,P0199,CRB,2023-05-24,1459,Eligible,Direct Deposit,NB,Low,18-34,True
+A0200,P0200,GST Credit,2025-02-02,2015,Eligible,Direct Deposit,NB,Low,55+,False
+A0201,P0201,CRB,2024-10-23,2336,Eligible,Direct Deposit,ON,Medium,35-54,False
+A0202,P0202,CRB,2023-01-05,2996,Eligible,Direct Deposit,ON,Low,18-34,False
+A0203,P0203,CERB,2022-11-07,1981,Pending,Direct Deposit,NB,Medium,18-34,False
+A0204,P0204,GST Credit,2024-05-05,2059,Eligible,Direct Deposit,MB,Low,0-17,True
+A0205,P0205,GST Credit,2023-09-18,2007,Eligible,Direct Deposit,NL,Low,35-54,False
+A0206,P0206,CRB,2024-02-14,2563,Eligible,Direct Deposit,QC,Low,0-17,False
+A0207,P0207,CRB,2023-04-23,2500,Eligible,Direct Deposit,NL,Medium,18-34,True
+A0208,P0208,CRB,2023-06-22,2790,Eligible,Direct Deposit,NB,Low,55+,True
+A0209,P0209,CCB,2022-08-29,2473,Eligible,Direct Deposit,NL,Medium,0-17,False
+A0210,P0210,GIS,2023-11-29,1411,Eligible,Direct Deposit,AB,Medium,55+,True
+A0211,P0211,CCB,2023-01-29,1794,Eligible,Direct Deposit,ON,Medium,55+,True
+A0212,P0212,GST Credit,2022-08-12,2302,Ineligible,Direct Deposit,ON,Medium,0-17,True
+A0213,P0213,CERB,2022-08-21,2253,Ineligible,Cheque,MB,Low,55+,True
+A0214,P0214,GIS,2023-12-20,614,Eligible,Direct Deposit,QC,Medium,18-34,True
+A0215,P0215,CERB,2024-06-04,2103,Eligible,Direct Deposit,NB,Low,55+,True
+A0216,P0216,GST Credit,2024-06-01,1822,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0217,P0217,GST Credit,2022-10-28,2360,Eligible,Direct Deposit,MB,Low,35-54,True
+A0218,P0218,CERB,2025-03-15,2944,Eligible,Direct Deposit,MB,Medium,18-34,False
+A0219,P0219,CERB,2024-11-07,2941,Eligible,Cheque,QC,High,55+,True
+A0220,P0220,CERB,2023-05-05,1598,Ineligible,Direct Deposit,NS,Medium,35-54,True
+A0221,P0221,GST Credit,2024-03-26,1477,Eligible,Cheque,NB,Medium,18-34,True
+A0222,P0222,CRB,2024-06-30,2005,Eligible,Cheque,PE,Medium,55+,False
+A0223,P0223,CERB,2022-09-11,1626,Eligible,Direct Deposit,ON,Low,18-34,True
+A0224,P0224,GIS,2025-03-10,796,Eligible,Direct Deposit,QC,High,0-17,True
+A0225,P0225,GST Credit,2022-10-23,2725,Eligible,Direct Deposit,PE,Low,0-17,False
+A0226,P0226,CCB,2024-07-10,2862,Eligible,Direct Deposit,AB,High,18-34,False
+A0227,P0227,CCB,2023-10-09,1562,Ineligible,Direct Deposit,MB,Medium,18-34,True
+A0228,P0228,GIS,2024-07-20,758,Eligible,Direct Deposit,QC,Medium,55+,False
+A0229,P0229,CRB,2025-04-10,2554,Eligible,Direct Deposit,ON,Medium,0-17,True
+A0230,P0230,CERB,2025-03-18,2596,Pending,Direct Deposit,NL,Medium,35-54,True
+A0231,P0231,GST Credit,2025-01-16,2708,Eligible,Direct Deposit,ON,Medium,0-17,True
+A0232,P0232,CERB,2023-05-26,2392,Eligible,Direct Deposit,AB,Low,55+,True
+A0233,P0233,GST Credit,2024-11-05,675,Ineligible,Direct Deposit,QC,Medium,55+,False
+A0234,P0234,CCB,2024-12-11,1500,Eligible,Direct Deposit,AB,Medium,18-34,True
+A0235,P0235,CERB,2024-10-03,2418,Eligible,Direct Deposit,NB,High,55+,True
+A0236,P0236,GIS,2024-09-20,2167,Eligible,Direct Deposit,NB,Medium,0-17,False
+A0237,P0237,CRB,2022-09-24,775,Pending,Cheque,NL,Low,35-54,False
+A0238,P0238,GIS,2023-01-12,1175,Eligible,Direct Deposit,MB,Low,18-34,True
+A0239,P0239,CRB,2023-08-08,2323,Eligible,Direct Deposit,NS,Medium,55+,False
+A0240,P0240,CERB,2025-04-12,1551,Eligible,Direct Deposit,BC,Low,0-17,True
+A0241,P0241,CERB,2024-09-04,1856,Eligible,Direct Deposit,PE,Low,35-54,False
+A0242,P0242,CRB,2022-08-31,2603,Eligible,Direct Deposit,AB,High,35-54,False
+A0243,P0243,CCB,2024-04-10,1046,Eligible,Direct Deposit,PE,Medium,18-34,False
+A0244,P0244,GST Credit,2022-09-15,1635,Eligible,Direct Deposit,NL,Medium,0-17,True
+A0245,P0245,GIS,2022-09-22,2583,Eligible,Direct Deposit,PE,Low,0-17,True
+A0246,P0246,GIS,2025-05-30,2540,Pending,Direct Deposit,PE,Medium,18-34,True
+A0247,P0247,GIS,2023-12-12,938,Eligible,Direct Deposit,ON,Low,35-54,True
+A0248,P0248,CERB,2024-11-01,2252,Eligible,Direct Deposit,QC,Medium,0-17,True
+A0249,P0249,GIS,2023-09-15,2115,Pending,Direct Deposit,MB,Low,18-34,False
+A0250,P0250,GST Credit,2024-01-27,2349,Eligible,Cheque,BC,High,0-17,True
+A0251,P0251,GST Credit,2025-05-28,2100,Eligible,Direct Deposit,QC,Medium,35-54,True
+A0252,P0252,CRB,2022-11-27,2163,Ineligible,Direct Deposit,ON,Medium,0-17,False
+A0253,P0253,CERB,2024-12-08,806,Eligible,Direct Deposit,PE,Medium,18-34,True
+A0254,P0254,GST Credit,2023-05-24,1118,Eligible,Direct Deposit,BC,Medium,0-17,False
+A0255,P0255,CCB,2023-09-29,1632,Eligible,Cheque,ON,Low,18-34,True
+A0256,P0256,CERB,2023-03-10,1895,Eligible,Direct Deposit,ON,Medium,35-54,True
+A0257,P0257,CERB,2024-11-24,2904,Eligible,Direct Deposit,ON,Low,18-34,True
+A0258,P0258,GST Credit,2023-09-01,2728,Eligible,Direct Deposit,NB,High,0-17,True
+A0259,P0259,CCB,2024-09-27,1879,Eligible,Direct Deposit,BC,High,35-54,False
+A0260,P0260,CRB,2022-07-25,2199,Eligible,Cheque,ON,Low,35-54,True
+A0261,P0261,GST Credit,2024-07-10,2615,Eligible,Direct Deposit,NS,High,0-17,True
+A0262,P0262,CCB,2024-07-08,2839,Eligible,Cheque,PE,Low,35-54,True
+A0263,P0263,CERB,2022-09-25,680,Ineligible,Direct Deposit,BC,Low,55+,True
+A0264,P0264,CCB,2022-10-08,2981,Eligible,Direct Deposit,NB,High,0-17,False
+A0265,P0265,CERB,2023-09-14,1987,Ineligible,Direct Deposit,AB,Medium,35-54,True
+A0266,P0266,GST Credit,2024-03-15,1413,Eligible,Cheque,AB,Medium,35-54,False
+A0267,P0267,GST Credit,2025-04-18,2057,Eligible,Direct Deposit,MB,Low,18-34,False
+A0268,P0268,GIS,2025-04-20,2613,Eligible,Direct Deposit,SK,Low,0-17,True
+A0269,P0269,GIS,2024-08-29,1544,Eligible,Cheque,NS,High,0-17,False
+A0270,P0270,GIS,2024-02-20,2135,Eligible,Direct Deposit,AB,Low,55+,True
+A0271,P0271,GST Credit,2022-08-05,2931,Eligible,Direct Deposit,NB,Low,55+,True
+A0272,P0272,CRB,2024-10-02,2138,Eligible,Direct Deposit,SK,Medium,35-54,True
+A0273,P0273,GST Credit,2023-05-31,2082,Eligible,Direct Deposit,ON,Medium,18-34,False
+A0274,P0274,CCB,2025-02-11,2586,Eligible,Direct Deposit,ON,Medium,35-54,False
+A0275,P0275,GST Credit,2024-04-01,1808,Eligible,Direct Deposit,NL,Low,35-54,True
+A0276,P0276,GST Credit,2022-11-06,1321,Eligible,Direct Deposit,PE,Low,18-34,False
+A0277,P0277,CERB,2023-09-15,1101,Eligible,Direct Deposit,SK,Low,0-17,True
+A0278,P0278,CERB,2025-05-01,2120,Eligible,Direct Deposit,PE,High,35-54,True
+A0279,P0279,CERB,2024-11-10,1284,Eligible,Cheque,NB,Low,18-34,True
+A0280,P0280,GST Credit,2023-06-09,1711,Eligible,Direct Deposit,NS,Medium,35-54,False
+A0281,P0281,CRB,2023-06-23,1170,Pending,Direct Deposit,SK,Medium,18-34,False
+A0282,P0282,CCB,2023-06-29,1766,Eligible,Direct Deposit,AB,High,0-17,True
+A0283,P0283,CCB,2024-02-01,1596,Eligible,Direct Deposit,NS,High,0-17,True
+A0284,P0284,CRB,2024-04-09,2497,Eligible,Direct Deposit,NL,Low,18-34,True
+A0285,P0285,CRB,2024-12-31,600,Pending,Direct Deposit,PE,Low,55+,True
+A0286,P0286,CCB,2022-08-25,2279,Eligible,Direct Deposit,PE,Medium,0-17,True
+A0287,P0287,GIS,2023-12-17,675,Pending,Direct Deposit,NS,Low,55+,False
+A0288,P0288,CERB,2024-03-08,737,Eligible,Direct Deposit,ON,Medium,18-34,True
+A0289,P0289,CERB,2022-11-22,1622,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0290,P0290,CCB,2024-11-30,2477,Ineligible,Direct Deposit,NL,High,18-34,True
+A0291,P0291,CRB,2023-11-12,2503,Eligible,Direct Deposit,AB,Low,35-54,False
+A0292,P0292,GIS,2023-01-30,2037,Eligible,Direct Deposit,BC,High,35-54,False
+A0293,P0293,CCB,2022-07-28,1254,Ineligible,Cheque,AB,Low,18-34,True
+A0294,P0294,CERB,2023-07-27,2758,Pending,Direct Deposit,AB,Medium,0-17,False
+A0295,P0295,GST Credit,2023-06-23,1646,Eligible,Direct Deposit,PE,Medium,55+,True
+A0296,P0296,CRB,2024-10-28,1911,Eligible,Direct Deposit,QC,Medium,55+,True
+A0297,P0297,GST Credit,2022-07-07,639,Ineligible,Direct Deposit,ON,Medium,0-17,True
+A0298,P0298,CCB,2023-04-05,1040,Eligible,Direct Deposit,PE,High,35-54,True
+A0299,P0299,CERB,2023-07-12,1914,Ineligible,Direct Deposit,ON,High,55+,True
+A0300,P0300,GIS,2024-07-23,769,Eligible,Direct Deposit,NB,High,55+,False
+A0301,P0301,GST Credit,2022-10-14,1535,Eligible,Direct Deposit,QC,Low,55+,False
+A0302,P0302,GIS,2024-06-04,2390,Pending,Direct Deposit,PE,High,35-54,False
+A0303,P0303,CERB,2022-06-12,1005,Eligible,Direct Deposit,MB,Medium,18-34,True
+A0304,P0304,GST Credit,2023-08-06,1629,Eligible,Direct Deposit,AB,Low,18-34,True
+A0305,P0305,GIS,2024-08-20,2579,Eligible,Direct Deposit,NB,Low,18-34,False
+A0306,P0306,GIS,2023-11-10,2372,Eligible,Direct Deposit,QC,Low,35-54,True
+A0307,P0307,GST Credit,2025-05-21,1592,Eligible,Direct Deposit,PE,Low,35-54,True
+A0308,P0308,CERB,2022-12-17,1312,Ineligible,Direct Deposit,NL,Medium,18-34,True
+A0309,P0309,GIS,2024-01-09,861,Eligible,Cheque,NS,High,55+,False
+A0310,P0310,CCB,2025-05-10,1956,Eligible,Cheque,NS,Medium,35-54,True
+A0311,P0311,GST Credit,2023-06-11,1428,Ineligible,Direct Deposit,ON,Medium,35-54,True
+A0312,P0312,CRB,2024-05-07,599,Eligible,Direct Deposit,QC,High,18-34,False
+A0313,P0313,CRB,2024-02-29,2181,Eligible,Direct Deposit,AB,Low,18-34,True
+A0314,P0314,CERB,2022-11-02,2556,Eligible,Direct Deposit,AB,High,0-17,True
+A0315,P0315,CCB,2024-03-18,1552,Pending,Direct Deposit,BC,Medium,18-34,True
+A0316,P0316,GIS,2022-08-20,1420,Eligible,Direct Deposit,NS,Medium,0-17,True
+A0317,P0317,CRB,2024-06-15,2937,Eligible,Cheque,NB,Low,0-17,False
+A0318,P0318,CERB,2023-11-19,1131,Eligible,Direct Deposit,QC,Medium,18-34,True
+A0319,P0319,CCB,2025-05-02,1181,Eligible,Direct Deposit,AB,Low,18-34,True
+A0320,P0320,CCB,2025-01-15,2704,Eligible,Direct Deposit,BC,Medium,0-17,False
+A0321,P0321,CERB,2022-10-23,2882,Eligible,Direct Deposit,QC,Low,35-54,False
+A0322,P0322,CERB,2022-10-01,2807,Eligible,Direct Deposit,SK,High,18-34,False
+A0323,P0323,GIS,2024-07-07,2629,Pending,Direct Deposit,AB,Low,55+,True
+A0324,P0324,CERB,2022-08-17,1253,Eligible,Direct Deposit,SK,Low,55+,True
+A0325,P0325,GIS,2023-12-25,1964,Eligible,Direct Deposit,QC,Medium,0-17,False
+A0326,P0326,GIS,2023-10-29,1219,Eligible,Cheque,AB,Low,18-34,False
+A0327,P0327,GST Credit,2025-04-19,574,Eligible,Direct Deposit,SK,Medium,0-17,True
+A0328,P0328,CCB,2024-04-12,1793,Eligible,Direct Deposit,MB,High,35-54,True
+A0329,P0329,CCB,2025-03-25,2422,Eligible,Direct Deposit,BC,Medium,35-54,True
+A0330,P0330,CCB,2023-11-08,561,Eligible,Direct Deposit,NB,Low,18-34,False
+A0331,P0331,GST Credit,2023-03-08,1373,Eligible,Direct Deposit,NS,Medium,35-54,True
+A0332,P0332,GIS,2024-05-20,819,Eligible,Cheque,BC,Medium,18-34,True
+A0333,P0333,GIS,2022-11-10,2649,Eligible,Direct Deposit,SK,High,0-17,True
+A0334,P0334,CERB,2023-05-19,1952,Eligible,Cheque,AB,Low,35-54,False
+A0335,P0335,GST Credit,2022-06-30,1373,Eligible,Direct Deposit,MB,Medium,18-34,False
+A0336,P0336,CERB,2024-06-19,2245,Eligible,Direct Deposit,MB,Medium,35-54,True
+A0337,P0337,GST Credit,2024-04-05,2802,Eligible,Cheque,NS,Low,18-34,False
+A0338,P0338,CERB,2024-07-20,2055,Eligible,Direct Deposit,MB,Low,55+,False
+A0339,P0339,CRB,2024-01-22,611,Ineligible,Direct Deposit,BC,Medium,0-17,True
+A0340,P0340,CCB,2024-03-24,960,Eligible,Direct Deposit,PE,High,18-34,True
+A0341,P0341,CCB,2022-09-20,1386,Eligible,Direct Deposit,MB,High,35-54,True
+A0342,P0342,GIS,2023-01-24,1615,Eligible,Direct Deposit,NS,Medium,18-34,False
+A0343,P0343,CRB,2024-06-10,1575,Eligible,Cheque,MB,Low,55+,True
+A0344,P0344,CCB,2023-10-09,1019,Eligible,Direct Deposit,MB,Low,35-54,False
+A0345,P0345,GIS,2024-10-07,1311,Pending,Direct Deposit,NL,High,35-54,False
+A0346,P0346,CRB,2024-02-16,2783,Eligible,Cheque,BC,High,35-54,True
+A0347,P0347,CCB,2022-06-12,2424,Pending,Direct Deposit,SK,High,55+,False
+A0348,P0348,CERB,2023-12-03,2104,Ineligible,Direct Deposit,ON,Medium,55+,True
+A0349,P0349,GST Credit,2023-04-13,1426,Eligible,Direct Deposit,PE,Low,35-54,True
+A0350,P0350,CRB,2024-11-02,1056,Eligible,Direct Deposit,MB,High,35-54,False
+A0351,P0351,GIS,2022-06-13,2781,Eligible,Direct Deposit,NB,Medium,0-17,False
+A0352,P0352,CRB,2024-09-06,1555,Eligible,Cheque,MB,Low,0-17,True
+A0353,P0353,GIS,2025-01-06,1078,Pending,Direct Deposit,NL,Medium,35-54,False
+A0354,P0354,CRB,2022-06-12,1041,Eligible,Direct Deposit,SK,Low,0-17,False
+A0355,P0355,GIS,2022-10-10,2661,Ineligible,Direct Deposit,NB,Low,18-34,True
+A0356,P0356,CCB,2024-01-13,2751,Eligible,Direct Deposit,PE,Medium,18-34,False
+A0357,P0357,CERB,2025-04-18,1552,Ineligible,Direct Deposit,NB,Medium,18-34,True
+A0358,P0358,CCB,2023-10-06,973,Pending,Direct Deposit,BC,High,35-54,True
+A0359,P0359,CERB,2024-01-27,2800,Eligible,Direct Deposit,NS,Low,55+,True
+A0360,P0360,CCB,2023-08-16,1404,Eligible,Cheque,NS,Low,0-17,False
+A0361,P0361,CCB,2023-04-29,2445,Eligible,Direct Deposit,PE,Low,18-34,False
+A0362,P0362,CRB,2024-08-31,885,Ineligible,Direct Deposit,SK,Low,55+,True
+A0363,P0363,GST Credit,2023-09-03,561,Pending,Cheque,NS,Low,0-17,True
+A0364,P0364,GIS,2023-05-08,1014,Ineligible,Direct Deposit,QC,Medium,35-54,False
+A0365,P0365,GIS,2024-05-15,929,Eligible,Direct Deposit,NL,Medium,18-34,True
+A0366,P0366,GIS,2022-07-27,1079,Eligible,Direct Deposit,PE,Medium,18-34,False
+A0367,P0367,CERB,2025-05-06,2060,Ineligible,Direct Deposit,PE,High,55+,False
+A0368,P0368,GIS,2023-03-05,1664,Eligible,Direct Deposit,ON,Medium,18-34,True
+A0369,P0369,GIS,2023-07-07,1823,Ineligible,Direct Deposit,ON,Low,35-54,False
+A0370,P0370,CRB,2023-05-11,2858,Eligible,Direct Deposit,BC,Low,35-54,True
+A0371,P0371,CCB,2024-01-22,970,Eligible,Direct Deposit,BC,High,0-17,False
+A0372,P0372,GIS,2022-11-07,1916,Eligible,Direct Deposit,ON,Medium,35-54,False
+A0373,P0373,GST Credit,2023-02-16,2165,Eligible,Direct Deposit,NS,High,55+,False
+A0374,P0374,GIS,2024-04-22,1968,Eligible,Direct Deposit,AB,High,0-17,True
+A0375,P0375,CERB,2024-06-30,1308,Eligible,Cheque,PE,High,55+,False
+A0376,P0376,CERB,2024-05-20,671,Eligible,Cheque,QC,High,35-54,True
+A0377,P0377,CERB,2023-10-30,530,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0378,P0378,GIS,2022-12-18,546,Eligible,Direct Deposit,MB,Low,35-54,True
+A0379,P0379,CRB,2023-10-27,629,Eligible,Direct Deposit,SK,High,18-34,True
+A0380,P0380,GST Credit,2024-06-16,2899,Pending,Direct Deposit,NL,Medium,55+,True
+A0381,P0381,GIS,2024-11-03,1477,Eligible,Direct Deposit,AB,Low,55+,False
+A0382,P0382,CRB,2023-02-14,2145,Pending,Direct Deposit,QC,Medium,35-54,False
+A0383,P0383,CRB,2022-12-17,2104,Eligible,Direct Deposit,MB,Medium,35-54,True
+A0384,P0384,GIS,2023-09-10,557,Eligible,Direct Deposit,BC,High,35-54,False
+A0385,P0385,GIS,2025-01-03,1629,Eligible,Cheque,QC,Medium,18-34,True
+A0386,P0386,CRB,2023-06-09,1853,Eligible,Direct Deposit,ON,Low,35-54,False
+A0387,P0387,CRB,2025-06-03,1267,Eligible,Direct Deposit,PE,High,35-54,False
+A0388,P0388,CRB,2023-06-17,1182,Eligible,Direct Deposit,QC,High,35-54,True
+A0389,P0389,GIS,2024-09-03,2508,Eligible,Direct Deposit,SK,Medium,35-54,False
+A0390,P0390,CRB,2024-05-27,2833,Eligible,Direct Deposit,NB,Low,18-34,True
+A0391,P0391,CERB,2025-01-13,2290,Eligible,Direct Deposit,BC,Low,0-17,True
+A0392,P0392,GIS,2023-09-03,1977,Eligible,Direct Deposit,NL,Medium,0-17,False
+A0393,P0393,CERB,2023-07-30,1385,Eligible,Direct Deposit,NL,Low,18-34,True
+A0394,P0394,CCB,2022-07-10,896,Eligible,Cheque,QC,Low,35-54,True
+A0395,P0395,GIS,2023-03-25,2038,Eligible,Cheque,NB,Medium,35-54,True
+A0396,P0396,CCB,2024-10-06,2573,Eligible,Cheque,PE,Medium,35-54,False
+A0397,P0397,CRB,2023-12-05,812,Eligible,Direct Deposit,MB,Medium,18-34,True
+A0398,P0398,CRB,2022-11-21,2673,Ineligible,Direct Deposit,AB,Low,35-54,True
+A0399,P0399,GST Credit,2024-02-08,2088,Ineligible,Direct Deposit,PE,Medium,18-34,False
+A0400,P0400,CRB,2023-11-20,1721,Eligible,Direct Deposit,MB,Medium,18-34,False
+A0401,P0401,CCB,2022-07-21,1310,Eligible,Direct Deposit,AB,Low,35-54,True
+A0402,P0402,CRB,2022-11-01,2735,Eligible,Cheque,NB,Low,55+,True
+A0403,P0403,GIS,2023-11-24,2532,Eligible,Direct Deposit,AB,Medium,18-34,True
+A0404,P0404,CRB,2023-05-02,2007,Eligible,Direct Deposit,PE,High,0-17,True
+A0405,P0405,GST Credit,2024-09-17,949,Eligible,Direct Deposit,SK,Medium,0-17,True
+A0406,P0406,CRB,2024-01-30,2394,Eligible,Cheque,QC,Low,0-17,False
+A0407,P0407,CCB,2023-07-19,1877,Eligible,Direct Deposit,MB,Low,35-54,False
+A0408,P0408,CCB,2023-07-28,1096,Eligible,Cheque,SK,High,18-34,False
+A0409,P0409,CRB,2023-12-11,2647,Eligible,Cheque,MB,Low,18-34,True
+A0410,P0410,CCB,2024-01-17,1115,Eligible,Cheque,QC,Medium,18-34,False
+A0411,P0411,CCB,2022-07-01,1447,Eligible,Direct Deposit,NS,Medium,0-17,True
+A0412,P0412,GST Credit,2024-02-25,2081,Eligible,Direct Deposit,AB,Low,18-34,False
+A0413,P0413,GIS,2022-07-03,1055,Eligible,Direct Deposit,NB,High,18-34,False
+A0414,P0414,GST Credit,2022-12-07,777,Eligible,Direct Deposit,NS,Medium,18-34,True
+A0415,P0415,CERB,2022-07-17,2513,Eligible,Direct Deposit,NS,Medium,18-34,False
+A0416,P0416,GST Credit,2023-03-23,990,Eligible,Direct Deposit,NL,Low,35-54,True
+A0417,P0417,CRB,2025-04-30,754,Ineligible,Cheque,ON,Low,0-17,False
+A0418,P0418,GIS,2024-04-09,2928,Eligible,Direct Deposit,PE,Medium,55+,True
+A0419,P0419,CRB,2024-11-09,1391,Pending,Cheque,SK,Medium,18-34,True
+A0420,P0420,CERB,2024-12-27,1041,Eligible,Direct Deposit,SK,Low,35-54,False
+A0421,P0421,GIS,2022-07-23,1787,Eligible,Direct Deposit,SK,Low,35-54,True
+A0422,P0422,CCB,2024-01-25,2133,Eligible,Cheque,SK,Low,35-54,False
+A0423,P0423,GST Credit,2022-08-19,1324,Eligible,Direct Deposit,PE,High,35-54,True
+A0424,P0424,CRB,2022-09-19,1852,Eligible,Direct Deposit,NS,Medium,18-34,False
+A0425,P0425,CERB,2022-09-29,780,Eligible,Direct Deposit,PE,High,18-34,False
+A0426,P0426,CCB,2024-02-27,1798,Ineligible,Direct Deposit,SK,Low,18-34,True
+A0427,P0427,GST Credit,2023-01-21,1272,Pending,Direct Deposit,ON,High,35-54,True
+A0428,P0428,CCB,2022-09-24,827,Eligible,Direct Deposit,BC,Low,0-17,True
+A0429,P0429,GST Credit,2023-10-14,2758,Eligible,Direct Deposit,QC,Medium,18-34,True
+A0430,P0430,GIS,2024-09-21,1422,Eligible,Direct Deposit,SK,High,35-54,True
+A0431,P0431,CCB,2024-07-19,1051,Eligible,Direct Deposit,NB,Low,35-54,False
+A0432,P0432,CCB,2023-04-15,2573,Ineligible,Direct Deposit,BC,Medium,35-54,False
+A0433,P0433,CCB,2023-10-23,2574,Ineligible,Direct Deposit,PE,Low,35-54,False
+A0434,P0434,GIS,2023-08-21,1201,Ineligible,Cheque,NB,Low,55+,False
+A0435,P0435,CERB,2024-11-18,2419,Eligible,Direct Deposit,NB,Medium,18-34,False
+A0436,P0436,GST Credit,2024-11-05,2960,Eligible,Direct Deposit,MB,Medium,18-34,False
+A0437,P0437,CCB,2024-08-24,666,Eligible,Direct Deposit,NB,Medium,18-34,True
+A0438,P0438,GIS,2023-11-18,668,Pending,Cheque,SK,Medium,18-34,False
+A0439,P0439,CERB,2024-09-03,728,Eligible,Direct Deposit,MB,Medium,35-54,False
+A0440,P0440,GST Credit,2024-09-17,2502,Eligible,Direct Deposit,NL,Low,18-34,True
+A0441,P0441,GIS,2025-02-04,866,Eligible,Direct Deposit,NS,Low,35-54,True
+A0442,P0442,GST Credit,2024-08-06,1027,Ineligible,Direct Deposit,NB,High,18-34,True
+A0443,P0443,CCB,2022-09-03,1290,Eligible,Direct Deposit,ON,Low,35-54,True
+A0444,P0444,CERB,2022-10-26,1023,Eligible,Direct Deposit,QC,Medium,35-54,False
+A0445,P0445,GIS,2024-07-05,1595,Pending,Direct Deposit,NB,Low,18-34,True
+A0446,P0446,CERB,2024-02-25,2168,Pending,Cheque,NL,Medium,18-34,True
+A0447,P0447,CCB,2022-10-16,2653,Eligible,Direct Deposit,AB,Medium,18-34,False
+A0448,P0448,CERB,2023-11-09,2408,Eligible,Direct Deposit,PE,Low,0-17,True
+A0449,P0449,CERB,2022-10-13,1805,Ineligible,Direct Deposit,PE,Low,18-34,True
+A0450,P0450,CRB,2025-02-17,632,Pending,Cheque,NL,Medium,0-17,True
+A0451,P0451,CERB,2024-09-18,2816,Eligible,Cheque,AB,Low,18-34,False
+A0452,P0452,GST Credit,2024-03-30,2142,Eligible,Direct Deposit,PE,Low,35-54,False
+A0453,P0453,GIS,2025-03-15,2388,Eligible,Direct Deposit,PE,Medium,35-54,True
+A0454,P0454,CRB,2023-08-12,2270,Ineligible,Direct Deposit,PE,Low,35-54,False
+A0455,P0455,GIS,2022-06-14,517,Eligible,Direct Deposit,NL,High,0-17,True
+A0456,P0456,GIS,2024-04-27,2277,Eligible,Direct Deposit,NS,Medium,35-54,False
+A0457,P0457,CCB,2024-07-03,616,Eligible,Direct Deposit,QC,Low,18-34,False
+A0458,P0458,CCB,2023-02-08,1297,Pending,Direct Deposit,NL,Medium,18-34,False
+A0459,P0459,CRB,2024-10-03,2211,Eligible,Direct Deposit,AB,Medium,55+,True
+A0460,P0460,CCB,2024-08-19,1252,Eligible,Direct Deposit,NB,Low,0-17,False
+A0461,P0461,CCB,2022-11-29,2969,Eligible,Direct Deposit,NS,Medium,35-54,False
+A0462,P0462,CCB,2024-03-14,1892,Eligible,Direct Deposit,NS,Low,35-54,True
+A0463,P0463,GIS,2023-04-25,2597,Eligible,Direct Deposit,NB,Low,18-34,False
+A0464,P0464,CRB,2023-02-01,1177,Eligible,Direct Deposit,ON,Low,18-34,True
+A0465,P0465,GIS,2024-07-23,605,Eligible,Direct Deposit,MB,Low,18-34,False
+A0466,P0466,GST Credit,2024-06-23,1157,Pending,Direct Deposit,QC,Low,55+,True
+A0467,P0467,GIS,2022-07-25,2446,Eligible,Direct Deposit,QC,Medium,18-34,False
+A0468,P0468,GST Credit,2023-12-23,1948,Eligible,Direct Deposit,ON,Medium,18-34,True
+A0469,P0469,CERB,2025-05-31,1595,Eligible,Direct Deposit,MB,Medium,18-34,True
+A0470,P0470,CERB,2023-05-11,1487,Eligible,Direct Deposit,QC,Medium,35-54,True
+A0471,P0471,GST Credit,2025-01-21,2308,Eligible,Direct Deposit,AB,High,0-17,True
+A0472,P0472,GST Credit,2023-09-27,2282,Ineligible,Cheque,BC,Medium,18-34,True
+A0473,P0473,GIS,2024-06-01,945,Eligible,Direct Deposit,BC,Medium,35-54,True
+A0474,P0474,GST Credit,2024-06-19,2448,Eligible,Cheque,QC,Low,55+,True
+A0475,P0475,CRB,2024-07-28,2617,Pending,Direct Deposit,SK,High,18-34,True
+A0476,P0476,CERB,2022-08-02,2497,Eligible,Cheque,QC,Low,18-34,True
+A0477,P0477,CERB,2024-04-07,2697,Ineligible,Direct Deposit,NB,Low,18-34,False
+A0478,P0478,GST Credit,2025-03-23,1273,Eligible,Direct Deposit,NB,Medium,35-54,True
+A0479,P0479,CCB,2024-07-12,2061,Eligible,Direct Deposit,MB,Low,18-34,False
+A0480,P0480,CCB,2024-05-06,2175,Eligible,Direct Deposit,PE,Low,18-34,False
+A0481,P0481,GST Credit,2025-05-14,1622,Eligible,Cheque,NS,Medium,35-54,False
+A0482,P0482,CRB,2023-12-11,1801,Eligible,Direct Deposit,AB,Medium,35-54,True
+A0483,P0483,CCB,2023-10-28,2086,Eligible,Direct Deposit,ON,Medium,18-34,False
+A0484,P0484,GST Credit,2023-02-07,2186,Eligible,Direct Deposit,QC,High,55+,True
+A0485,P0485,CRB,2023-10-01,1443,Ineligible,Direct Deposit,PE,Low,35-54,True
+A0486,P0486,CRB,2023-04-22,954,Eligible,Cheque,PE,Low,18-34,True
+A0487,P0487,GIS,2025-03-10,1627,Pending,Direct Deposit,AB,Medium,0-17,False
+A0488,P0488,CRB,2024-07-04,1445,Eligible,Direct Deposit,ON,Low,55+,True
+A0489,P0489,CCB,2022-07-08,1100,Eligible,Direct Deposit,NB,Medium,0-17,True
+A0490,P0490,CCB,2024-07-16,1224,Ineligible,Cheque,NL,Low,18-34,False
+A0491,P0491,GST Credit,2023-05-03,2780,Eligible,Direct Deposit,AB,Medium,0-17,False
+A0492,P0492,GST Credit,2023-06-29,1917,Pending,Direct Deposit,PE,Medium,35-54,True
+A0493,P0493,CRB,2023-09-18,2024,Eligible,Direct Deposit,BC,Medium,18-34,True
+A0494,P0494,CERB,2024-10-06,750,Eligible,Direct Deposit,QC,Medium,0-17,False
+A0495,P0495,GIS,2023-08-18,2044,Eligible,Direct Deposit,MB,Medium,0-17,True
+A0496,P0496,CERB,2025-02-07,578,Eligible,Cheque,BC,Low,0-17,True
+A0497,P0497,CRB,2025-02-02,1397,Eligible,Direct Deposit,PE,Low,35-54,True
+A0498,P0498,CRB,2022-08-10,1280,Eligible,Cheque,NS,Low,35-54,False
+A0499,P0499,CERB,2024-09-01,725,Eligible,Direct Deposit,SK,Medium,18-34,False
+A0500,P0500,GIS,2023-08-31,1574,Eligible,Direct Deposit,ON,Low,18-34,False
